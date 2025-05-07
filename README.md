@@ -55,16 +55,3 @@ Retrieves detailed airport information using the IATA code.
     }
   }
 }
-
-###⚙️ Implementation Details
-**Language:** - Node.js
-
-**ORM:** - TypeORM
-
-**Database:** - SQLite
-
-**Efficiency:** - Uses a single TypeORM query leveraging relations
-
-### git clone 'https://github.com/Soniya-321/Airport-Information-API-Development.git'
-npm install
-npm run dev
