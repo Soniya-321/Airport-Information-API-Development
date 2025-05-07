@@ -1,7 +1,7 @@
 {
   "name": "airport-api-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "node src/index.ts",
     "start": "ts-node src/index.ts"
