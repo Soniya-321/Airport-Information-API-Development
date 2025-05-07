@@ -1,0 +1,729 @@
+id,icao_code,iata_code,name,type,city_id,country_id,continent_id,website_url,created_at,updated_at,latitude_deg,longitude_deg,elevation_ft,wikipedia_link
+1,NTGA,AAA,Anaa Airport,medium_airport,47868,198,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-17.3526,-145.509995,10,https://en.wikipedia.org/wiki/Anaa_Airport
+2,YARY,AAB,Arrabury Airport,small_airport,47869,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-26.69639,141.048718,334,https://en.wikipedia.org/wiki/Arrabury_Airport
+3,HEAR,AAC,El Arish International Airport,medium_airport,47870,51,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.078565,33.836791,118,https://en.wikipedia.org/wiki/El_Arish_International_Airport
+4,AAD,AAD,Adado Airport,small_airport,47871,162,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.095802,46.6375,1001,https://en.wikipedia.org/wiki/Adado_Airport
+5,DABB,AAE,Annaba Rabah Bitat Airport,medium_airport,2074,3,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.826781,7.81334,16,https://en.wikipedia.org/wiki/Rabah_Bitat_Airport
+6,KAAF,AAF,Apalachicola Regional Airport,small_airport,47872,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.72750092,-85.02749634,20,https://en.wikipedia.org/wiki/Apalachicola_Municipal_Airport
+7,SSYA,AAG,Avelino Vieira Airport,small_airport,2421,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.103901,-49.789101,2641,https://en.wikipedia.org/wiki/Arapoti_Airport
+8,EDKA,AAH,Aachen-Merzbrück Airport,small_airport,26,64,3,https://www.flugplatz-aachen.de,2024-06-27 0:00:00,2024-06-27 0:00:00,50.823055,6.186389,623,https://en.wikipedia.org/wiki/Aachen_Merzbr%C3%BCck_Airfield
+9,SWRA,AAI,Arraias Airport,small_airport,2642,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.025154,-46.884107,1923,https://en.wikipedia.org/wiki/Arraias_Airport
+10,SR-AAJ,AAJ,Cayana Airstrip,small_airport,47873,168,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,3.898681,-55.577907,360,https://en.wikipedia.org/wiki/Cayana_Airstrip
+11,NGUK,AAK,Aranuka Airport,small_airport,47874,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,0.185278,173.636993,6,https://en.wikipedia.org/wiki/Aranuka_Airport
+12,EKYT,AAL,Aalborg Airport,medium_airport,28,46,3,http://www.aal.dk,2024-06-27 0:00:00,2024-06-27 0:00:00,57.094763,9.84993,10,https://en.wikipedia.org/wiki/Aalborg_Airport
+13,FAMD,AAM,Malamala Airport,medium_airport,47875,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.816866,31.544085,1124,https://en.wikipedia.org/wiki/Mala_Mala_Airport
+14,OMAL,AAN,Al Ain International Airport,medium_airport,47876,186,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.26169968,55.60919952,869,https://en.wikipedia.org/wiki/Al_Ain_International_Airport
+15,SVAN,AAO,Anaco Airport,medium_airport,1782,193,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.430225,-64.470726,721,https://en.wikipedia.org/wiki/Anaco_Airport
+16,WALS,AAP,Aji Pangeran Tumenggung Pranoto International Airport,medium_airport,36569,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.374478,117.250128,82,https://en.wikipedia.org/wiki/Aji_Pangeran_Tumenggung_Pranoto_International_Airport
+17,URKA,AAQ,Anapa Vityazevo Airport,medium_airport,47877,145,3,http://basel.aero/en/anapa/,2024-06-27 0:00:00,2024-06-27 0:00:00,45.002102,37.347301,174,https://en.wikipedia.org/wiki/Anapa_Airport
+18,EKAH,AAR,Aarhus Airport,medium_airport,36,46,3,http://www.aar.dk/default.asp?id=87,2024-06-27 0:00:00,2024-06-27 0:00:00,56.303331,10.618286,82,https://en.wikipedia.org/wiki/Aarhus_Airport
+19,ID-AAS,AAS,Apalapsili Airport,small_airport,47878,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.882495,139.310932,3100,https://en.wikipedia.org/wiki/Apalapsili_Airport
+20,CN-0113,AAT,Altay Xuedu Airport,medium_airport,1311,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,47.749886,88.085808,2460,https://en.wikipedia.org/wiki/Altay_Xuedu_Airport
+21,NSAU,AAU,Asau Airport,small_airport,2781,150,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.505132,-172.627888,,https://en.wikipedia.org/wiki/Asau_Airport
+22,RPMA,AAV,Allah Valley Airport,medium_airport,41200,140,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.367903,124.752431,659,https://en.wikipedia.org/wiki/Allah_Valley_Airport
+23,SBAX,AAX,Romeu Zema Airport,medium_airport,47879,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.5632,-46.9604,3276,https://en.wikipedia.org/wiki/Arax%C3%A1_Airport
+24,OYGD,AAY,Al Ghaydah International Airport,medium_airport,47880,195,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.193341,52.174186,134,https://en.wikipedia.org/wiki/Al_Ghaydah_Airport
+25,MGQZ,AAZ,Quezaltenango Airport,small_airport,47881,68,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.8656,-91.501999,7779,https://en.wikipedia.org/wiki/Quetzaltenango_Airport
+26,UNAA,ABA,Abakan International Airport,medium_airport,55,145,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,53.740002,91.385002,831,https://en.wikipedia.org/wiki/Abakan_International_Airport
+27,DNAS,ABB,Asaba International Airport,medium_airport,2749,129,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.204167,6.665278,305,https://en.wikipedia.org/wiki/Asaba_International_Airport
+28,LEAB,ABC,Albacete Airport / Los Llanos Air Base,medium_airport,995,165,3,https://www.aena.es/en/albacete.html,2024-06-27 0:00:00,2024-06-27 0:00:00,38.948502,-1.86352,2302,https://en.wikipedia.org/wiki/Albacete_Airport
+29,OIAA,ABD,Abadan Airport,medium_airport,45,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.367887,48.230075,10,https://en.wikipedia.org/wiki/Abadan_Airport
+30,KABE,ABE,Lehigh Valley International Airport,medium_airport,1216,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.651773,-75.442797,393,https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport
+31,NGAB,ABF,Abaiang Airport,small_airport,47882,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,1.79861,173.041,26,https://en.wikipedia.org/wiki/Abaiang_Airport
+32,YABI,ABG,Abingdon Downs Airport,small_airport,113,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-17.608814,143.183531,573,https://en.wikipedia.org/wiki/Abingdon_Airport
+33,AU-0548,ABH,Alpha Airport,small_airport,47883,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.652849,146.582668,1255,https://en.wikipedia.org/wiki/Alpha_Airport
+34,KABI,ABI,Abilene Regional Airport,medium_airport,111,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.41130066,-99.68190002,1791,https://en.wikipedia.org/wiki/Abilene_Regional_Airport
+35,DIAP,ABJ,Félix-Houphouët-Boigny International Airport,medium_airport,109,83,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.26139,-3.92629,21,https://en.wikipedia.org/wiki/F%C3%A9lix-Houphou%C3%ABt-Boigny_International_Airport
+36,HAKD,ABK,Kebri Dahar Airport,medium_airport,47884,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.732577,44.241339,1800,https://en.wikipedia.org/wiki/Kabri_Dar_Airport
+37,PAFM,ABL,Ambler Airport,medium_airport,47885,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,67.105529,-157.855339,334,https://en.wikipedia.org/wiki/Ambler_Airport
+38,YNPE,ABM,Northern Peninsula Airport,small_airport,47886,9,6,http://www.nparc.qld.gov.au/airport,2024-06-27 0:00:00,2024-06-27 0:00:00,-10.946194,142.455081,34,https://en.wikipedia.org/wiki/Northern_Peninsula_Airport
+39,SMBN,ABN,Albina Airport,small_airport,1019,168,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.51272,-54.050098,19,https://en.wikipedia.org/wiki/Albina_Airstrip
+40,DIAO,ABO,Aboisso Airport,small_airport,123,83,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.461944,-3.234722,95,https://en.wikipedia.org/wiki/Aboisso_Airport
+41,ABP,ABP,Atkamba Airport,small_airport,47887,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-6.06462,141.095173,150,https://en.wikipedia.org/wiki/Atkamba_Airport
+42,KABQ,ABQ,Albuquerque International Sunport,large_airport,1030,188,4,http://www.abqsunport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,35.039976,-106.608925,5355,https://en.wikipedia.org/wiki/Albuquerque_International_Sunport
+43,KABR,ABR,Aberdeen Regional Airport,medium_airport,92,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.44910049,-98.42179871,1302,https://en.wikipedia.org/wiki/Aberdeen_Regional_Airport
+44,HEBL,ABS,Abu Simbel Airport,medium_airport,47888,51,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,22.367657,31.609962,614,https://en.wikipedia.org/wiki/Abu_Simbel_Airport
+45,OEBA,ABT,King Saud Bin Abdulaziz (Al Baha) Airport,medium_airport,47889,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,20.298506,41.636153,5486,https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport
+46,WRKA,ABU,AA Bere Tallo (Haliwen) Airport,small_airport,2928,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.074841,124.903285,1027,https://en.wikipedia.org/wiki/Haliwen_Airport
+47,DNAA,ABV,Nnamdi Azikiwe International Airport,large_airport,163,129,2,http://www.faannigeria.org/nigeria-airport.php?airport=3,2024-06-27 0:00:00,2024-06-27 0:00:00,9.00679,7.26317,1123,https://en.wikipedia.org/wiki/Nnamdi_Azikiwe_International_Airport
+48,YMAY,ABX,Albury Airport,medium_airport,1032,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-36.066758,146.959148,539,https://en.wikipedia.org/wiki/Albury_Airport
+49,KABY,ABY,Southwest Georgia Regional Airport,medium_airport,999,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.532946,-84.196215,197,https://en.wikipedia.org/wiki/Southwest_Georgia_Regional_Airport
+50,EGPD,ABZ,Aberdeen Dyce Airport,medium_airport,92,187,3,http://www.aberdeenairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,57.2019,-2.19778,215,https://en.wikipedia.org/wiki/Aberdeen_Airport
+51,MMAA,ACA,Aeropuerto Internacional Juan N. Álvarez,medium_airport,47890,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.757126,-99.753113,16,https://en.wikipedia.org/wiki/General_Juan_N._%C3%81lvarez_International_Airport
+52,KACB,ACB,Antrim County Airport,small_airport,5042,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.988602,-85.198402,623,https://en.wikipedia.org/wiki/Antrim_County_Airport
+53,DGAA,ACC,Kotoka International Airport,large_airport,202,65,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.6051898,-0.166786,205,https://en.wikipedia.org/wiki/Kotoka_International_Airport
+54,SKAD,ACD,Alcides Fernández Airport,small_airport,47891,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.497847,-77.274106,50,https://en.wikipedia.org/wiki/Alcides_Fern%C3%A1ndez_Airport
+55,GCRR,ACE,César Manrique-Lanzarote Airport,large_airport,47892,165,2,https://www.lanzaroteairport.info/barrier-free-disability-assistance-service/,2024-06-27 0:00:00,2024-06-27 0:00:00,28.945499,-13.6052,46,https://en.wikipedia.org/wiki/Lanzarote_Airport
+56,ZWAL,ACF,Aral Tarim Airport,small_airport,2393,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.434748,81.26206,,https://en.wikipedia.org/wiki/Aral_Talim_Airport
+57,LSZR,ACH,Sankt Gallen Altenrhein Airport,medium_airport,47893,170,3,https://www.peoples.ch/lszr,2024-06-27 0:00:00,2024-06-27 0:00:00,47.485001,9.56077,1306,https://en.wikipedia.org/wiki/St._Gallen-Altenrhein_Airport
+58,EGJA,ACI,Alderney Airport,medium_airport,47894,199,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,49.706104,-2.21472,290,https://en.wikipedia.org/wiki/Alderney_Airport
+59,VCCA,ACJ,Anuradhapura Airport,medium_airport,2242,166,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.301542,80.42848,324,https://en.wikipedia.org/wiki/Anuradhapura_Airport
+60,KACK,ACK,Nantucket Memorial Airport,medium_airport,28764,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.25310135,-70.06020355,47,https://en.wikipedia.org/wiki/Nantucket_Memorial_Airport
+61,ACM,ACM,Arica Airport,small_airport,2551,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-2.143713,-71.75935,316,https://en.wikipedia.org/wiki/Arica_Airport_(Colombia)
+62,MMCC,ACN,Ciudad Acuña New International Airport,small_airport,47895,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.333662,-101.100555,1410,https://en.wikipedia.org/wiki/Ciudad_Acu%C3%B1a_International_Airport
+63,CR-0006,ACO,Cóbano Airport,small_airport,47896,41,4,https://www.cobanoairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,9.693365,-85.091216,502,
+64,OITM,ACP,Sahand Airport,small_airport,25679,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.34799957,46.12789917,4396,https://en.wikipedia.org/wiki/Sahand_Airport
+65,SKAC,ACR,Araracuara Airport,small_airport,47897,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.600854,-72.398011,1250,https://en.wikipedia.org/wiki/Araracuara_Airport
+66,UNKS,ACS,Achinsk Airport,medium_airport,220,145,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,56.269185,90.57511,1033,https://en.wikipedia.org/wiki/Achinsk_Airport
+67,KACT,ACT,Waco Regional Airport,medium_airport,45583,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.61129951,-97.23049927,516,https://en.wikipedia.org/wiki/Waco_Regional_Airport
+68,PA-0001,ACU,Achutupu Airport,small_airport,47898,136,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.188481,-77.994153,10,https://en.wikipedia.org/wiki/Achutupo_Airport
+69,KACV,ACV,California Redwood Coast-Humboldt County Airport,medium_airport,47899,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.978101,-124.109,221,https://en.wikipedia.org/wiki/Arcata-Eureka_Airport
+70,ZUYI,ACX,Xingyi Wanfenglin Airport,medium_airport,46700,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,25.083423,104.960804,4150,https://en.wikipedia.org/wiki/Xingyi_Wanfenglin_Airport
+71,KACY,ACY,Atlantic City International Airport,medium_airport,2979,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.45759964,-74.57720184,75,https://en.wikipedia.org/wiki/Atlantic_City_International_Airport
+72,OIZB,ACZ,Zabol Airport,medium_airport,47323,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.098301,61.5439,1628,https://en.wikipedia.org/wiki/Zabol_Airport
+73,LTAF,ADA,Adana Şakirpaşa Airport,medium_airport,38886,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.982201,35.280399,65,https://en.wikipedia.org/wiki/Adana_%C5%9Eakirpa%C5%9Fa_Airport
+74,LTBJ,ADB,Adnan Menderes International Airport,large_airport,14719,181,1,http://www.adnanmenderesairport.com,2024-06-27 0:00:00,2024-06-27 0:00:00,38.2924,27.157,412,https://en.wikipedia.org/wiki/Adnan_Menderes_Airport
+75,ADC,ADC,Andakombe Airport,small_airport,47900,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.137222222,145.7447222,3600,https://en.wikipedia.org/wiki/Andakombe_Airport
+76,HAAB,ADD,Addis Ababa Bole International Airport,large_airport,288,57,2,http://www.ethiopianairports.com,2024-06-27 0:00:00,2024-06-27 0:00:00,8.97789,38.799301,7630,https://en.wikipedia.org/wiki/Bole_International_Airport
+77,OYAA,ADE,Aden International Airport,medium_airport,302,195,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,12.8295,45.028801,7,https://en.wikipedia.org/wiki/Aden_International_Airport
+78,LTCP,ADF,Adıyaman Airport,medium_airport,47901,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.7314,38.468899,2216,https://en.wikipedia.org/wiki/Ad%C4%B1yaman_Airport
+79,KADG,ADG,Lenawee County Airport,small_airport,342,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.866205,-84.077983,798,https://en.wikipedia.org/wiki/Lenawee_County_Airport
+80,UEEA,ADH,Aldan Airport,small_airport,1068,145,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,58.60279846,125.4089966,2241,https://en.wikipedia.org/wiki/Aldan_Airport
+81,FYAR,ADI,Arandis Airport,medium_airport,47902,122,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-22.461875,14.979322,1905,https://en.wikipedia.org/wiki/Arandis_Airport
+82,OJAM,ADJ,Amman Civil (Marka International) Airport,medium_airport,1684,86,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.9727,35.9916,2555,https://en.wikipedia.org/wiki/Amman_Civil_Airport
+83,PADK,ADK,Adak Airport,medium_airport,47903,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,51.883564,-176.642783,18,https://en.wikipedia.org/wiki/Adak_Airport
+84,YPAD,ADL,Adelaide International Airport,large_airport,295,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-34.947512,138.533393,20,https://en.wikipedia.org/wiki/Adelaide_International_Airport
+85,KADM,ADM,Ardmore Municipal Airport,small_airport,2501,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.30301,-97.0196342,777,https://en.wikipedia.org/wiki/Ardmore_Municipal_Airport
+86,YAMK,ADO,Andamooka Airport,small_airport,1860,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-30.438299,137.136993,76,https://en.wikipedia.org/wiki/Andamooka_Airport
+87,VCCG,ADP,Ampara Airport,medium_airport,47904,166,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.336745,81.623869,150,https://en.wikipedia.org/wiki/Amparai_Airport
+88,PADQ,ADQ,Kodiak Airport,medium_airport,47905,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,57.75,-152.4940033,78,https://en.wikipedia.org/wiki/Kodiak_Airport
+89,KPHH,ADR,Robert F Swinnie Airport,small_airport,1937,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.4516983,-79.52619934,26,https://en.wikipedia.org/wiki/Robert_F._Swinnie_Airport
+90,KADS,ADS,Addison Airport,small_airport,10837,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.96860123,-96.83640289,644,https://en.wikipedia.org/wiki/Addison_Airport
+91,KADH,ADT,Ada Regional Airport,small_airport,268,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.805214,-96.671988,1016,https://en.wikipedia.org/wiki/Ada_Municipal_Airport
+92,OITL,ADU,Ardabil Airport,medium_airport,2491,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.32569885,48.42440033,4315,https://en.wikipedia.org/wiki/Ardabil_Airport
+93,ADV,ADV,El Daein Airport,small_airport,47906,167,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.4023,26.1186,1560,https://en.wikipedia.org/wiki/Ed_Daein_Airport
+94,KADW,ADW,Joint Base Andrews,large_airport,7733,188,4,2024-06-27 0:00:00,2024-06-27 0:00:00,38.810799,-76.866997,280,https://en.wikipedia.org/wiki/Joint_Base_Andrews
+95,EGQL,ADX,Leuchars Station Airfield,medium_airport,47907,187,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,56.37398,-2.868862,38,https://en.wikipedia.org/wiki/Leuchars_Station
+96,FAAL,ADY,Alldays Airport,small_airport,47908,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-22.679001,29.0555,2600,https://en.wikipedia.org/wiki/Alldays_Airport
+97,SKSP,ADZ,Gustavo Rojas Pinilla International Airport,medium_airport,47909,37,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,12.5836,-81.7112,19,https://en.wikipedia.org/wiki/Gustavo_Rojas_Pinilla_International_Airport
+98,NGTB,AEA,Abemama Airport,small_airport,47910,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,0.490759,173.830287,8,https://en.wikipedia.org/wiki/Abemama_Airport
+99,CN-0082,AEB,Baise Youjiang Airport,medium_airport,47911,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,23.7206,106.959999,490,https://en.wikipedia.org/wiki/Baise_Youjiang_Airport
+100,AEE,AEE,Adareil Airport,small_airport,47912,164,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.053611,32.959444,1301,https://en.wikipedia.org/wiki/Adareil_Airport
+101,WIME,AEG,Aek Godang Airport,medium_airport,47913,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,1.4001,99.430496,922,https://en.wikipedia.org/wiki/Aek_Godang_Airport
+102,FTTC,AEH,Abeche Airport,medium_airport,83,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,13.847,20.844299,1788,https://en.wikipedia.org/wiki/Ab%C3%A9ch%C3%A9_Airport
+103,AEK,AEK,Aseki Airport,small_airport,47914,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.350805,146.193994,4106,https://en.wikipedia.org/wiki/Aseki_Airport
+104,KAEL,AEL,Albert Lea Municipal Airport,small_airport,1012,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.68149948,-93.36720276,1260,https://en.wikipedia.org/wiki/Albert_Lea_Municipal_Airport
+105,UHTG,AEM,Amgu Airport,small_airport,47915,145,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.84126,137.673568,10,https://en.wikipedia.org/wiki/Amgu_Airport
+106,GQNA,AEO,Aioun el Atrouss Airport,small_airport,47916,111,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.7112999,-9.637880325,951,https://en.wikipedia.org/wiki/Aioun_el_Atrouss_Airport
+107,SABE,AEP,Jorge Newbery Airpark,large_airport,7035,7,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-34.5592,-58.4156,18,https://en.wikipedia.org/wiki/Aeroparque_Jorge_Newbery
+108,AEQ,AEQ,Ar Horqin Airport,small_airport,9221,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.908407,120.15099,1335,https://en.wikipedia.org/wiki/Ar_Horqin_Airport
+109,URSS,AER,Sochi International Airport,large_airport,40097,145,3,http://basel.aero/en/sochi/,2024-06-27 0:00:00,2024-06-27 0:00:00,43.449902,39.9566,89,https://en.wikipedia.org/wiki/Sochi_International_Airport
+110,ENAL,AES,"Ålesund Airport, Vigra",medium_airport,47917,131,3,http://www.avinor.no/lufthavn/alesund,2024-06-27 0:00:00,2024-06-27 0:00:00,62.5625,6.1197,69,https://en.wikipedia.org/wiki/%C3%85lesund_Airport%2C_Vigra
+111,PFAL,AET,Allakaket Airport,small_airport,47918,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,66.551804,-152.621994,441,https://en.wikipedia.org/wiki/Allakaket_Airport
+112,OIBA,AEU,Abu Musa Island Airport,medium_airport,47919,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,25.8757,55.033001,23,https://en.wikipedia.org/wiki/Abu_Musa_Airport
+113,KAEX,AEX,Alexandria International Airport,medium_airport,1118,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.3274,-92.549797,89,https://en.wikipedia.org/wiki/Alexandria_International_Airport_(Louisiana)
+114,BIAR,AEY,Akureyri Airport,medium_airport,749,75,3,https://www.isavia.is/en/akureyri-airport,2024-06-27 0:00:00,2024-06-27 0:00:00,65.656573,-18.072018,6,https://en.wikipedia.org/wiki/Akureyri_Airport
+115,SAMR,AFA,Suboficial Ay Santiago Germano Airport,medium_airport,37196,7,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-34.588299,-68.4039,2470,https://en.wikipedia.org/wiki/San_Rafael_Airport_(Argentina)
+116,FAPA,AFD,Port Alfred Airport,small_airport,33357,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-33.555057,26.881656,275,https://en.wikipedia.org/wiki/Port_Alfred_Airport
+117,KAFF,AFF,USAF Academy Airfield,small_airport,10009,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.972497,-104.821125,6572,https://en.wikipedia.org/wiki/United_States_Air_Force_Academy_Airfield
+118,SKAM,AFI,Amalfi Airport,small_airport,1406,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.895033,-75.047334,5507,https://en.wikipedia.org/wiki/Amalfi_Airport_(Colombia)
+119,AFK,AFK,Kondavattavana Tank Seaplane Base,seaplane_base,47904,166,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.284,81.644,95,
+120,SBAT,AFL,Piloto Osvaldo Marques Dias Airport,medium_airport,1294,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.866389,-56.106298,948,https://en.wikipedia.org/wiki/Alta_Floresta_Airport
+121,KAFN,AFN,Jaffrey Airfield Silver Ranch Airport,small_airport,47921,188,4,http://silverranchairpark.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,42.805099,-72.002998,1040,https://en.wikipedia.org/wiki/Jaffrey_Airport_%E2%80%93_Silver_Ranch_Airpark
+122,KAFO,AFO,Afton Municipal Airport,small_airport,47922,188,4,http://www.aftonairpark.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,42.71120071,-110.9420013,6221,https://en.wikipedia.org/wiki/Afton_Municipal_Airport
+124,UTSN,AFS,Sugraly Airport,small_airport,47923,190,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.613899,64.2332,1396,https://en.wikipedia.org/wiki/Zarafshan_Airport
+125,AGAF,AFT,Afutara Aerodrome,small_airport,47924,161,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.191388889,160.9486111,23,https://en.wikipedia.org/wiki/Afutara_Airport
+126,KAFW,AFW,Perot Field/Fort Worth Alliance Airport,medium_airport,14023,188,4,http://www.allianceairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,32.99044,-97.31947,722,https://en.wikipedia.org/wiki/Fort_Worth_Alliance_Airport
+127,LTAH,AFY,Afyon Air Base,medium_airport,375,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.726398,30.601101,3310,https://en.wikipedia.org/wiki/Afyon_Airport
+128,OIMS,AFZ,Sabzevar National Airport,medium_airport,36003,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.16809845,57.59519958,3010,https://en.wikipedia.org/wiki/Sabzevar_Airport
+129,GMAD,AGA,Al Massira Airport,medium_airport,47925,119,2,http://www.agadir-airport.com/en/index.php,2024-06-27 0:00:00,2024-06-27 0:00:00,30.322478,-9.412003,250,https://en.wikipedia.org/wiki/Al_Massira_Airport
+130,EDMA,AGB,Augsburg Airport,medium_airport,3050,64,3,https://www.augsburg-airport.de/,2024-06-27 0:00:00,2024-06-27 0:00:00,48.425278,10.931667,1516,https://en.wikipedia.org/wiki/Augsburg_Airport
+131,KAGC,AGC,Allegheny County Airport,medium_airport,32955,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.354401,-79.930199,1252,https://en.wikipedia.org/wiki/Allegheny_County_Airport
+132,ID-AGD,AGD,Anggi Airport,small_airport,47926,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.3858,133.8737,6644,https://en.wikipedia.org/wiki/Anggi_Airport
+133,EDWG,AGE,Wangerooge Airport,small_airport,47927,64,3,https://www.edwg.de,2024-06-27 0:00:00,2024-06-27 0:00:00,53.782544,7.919584,7,https://en.wikipedia.org/wiki/Wangerooge_Airfield
+134,LFBA,AGF,Agen-La Garenne Airport,medium_airport,47928,60,3,http://www.aeroport-agen.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.174171,0.59309,204,https://en.wikipedia.org/wiki/Agen_-_La_Garenne_Aerodrome
+135,AGG,AGG,Angoram Airport,small_airport,47929,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.055833333,144.0738889,75,
+136,ESTA,AGH,Ängelholm-Helsingborg Airport,medium_airport,47930,169,3,http://www.lfv.se/templates/LFV_AirportStartPage____4777.aspx,2024-06-27 0:00:00,2024-06-27 0:00:00,56.29610062,12.84710026,68,https://en.wikipedia.org/wiki/%C3%84ngelholm-Helsingborg_Airport
+137,SMWA,AGI,Wageningen Airstrip,small_airport,45603,168,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.841252,-56.673247,6,https://en.wikipedia.org/wiki/Wageningen_Airstrip
+138,RORA,AGJ,Aguni Airport,small_airport,47931,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.592755,127.240335,38,https://en.wikipedia.org/wiki/Aguni_Airport
+139,AGK,AGK,Kagua Airport,small_airport,47932,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-6.396388889,143.8536111,5350,
+141,BGAM,AGM,Tasiilaq Heliport,heliport,42035,200,4,http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/tasiilaq/,2024-06-27 0:00:00,2024-06-27 0:00:00,65.612296,-37.618335,24,https://en.wikipedia.org/wiki/Tasiilaq_Heliport
+142,PAGN,AGN,Angoon Seaplane Base,seaplane_base,47933,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,57.497097,-134.56722,,https://en.wikipedia.org/wiki/Angoon_Seaplane_Base
+143,KAGO,AGO,Magnolia Municipal Airport / Ralph C Weiser Field,small_airport,24826,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.228001,-93.217002,319,https://en.wikipedia.org/wiki/Magnolia_Municipal_Airport
+144,LEMG,AGP,Málaga-Costa del Sol Airport,large_airport,47934,165,3,https://www.aena.es/en/malaga-costa-del-sol.html,2024-06-27 0:00:00,2024-06-27 0:00:00,36.6749,-4.49911,53,https://en.wikipedia.org/wiki/M%C3%A1laga_Airport
+145,VIAG,AGR,Agra Airport / Agra Air Force Station,medium_airport,436,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.157683,77.960942,551,https://en.wikipedia.org/wiki/Agra_Airport
+146,KAGS,AGS,Augusta Regional At Bush Field,medium_airport,3052,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.3699,-81.9645,144,https://en.wikipedia.org/wiki/Augusta_Regional_Airport
+147,SGES,AGT,Aeropuerto Internacional Guaraní,large_airport,9702,138,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-25.457186,-54.839544,846,https://en.wikipedia.org/wiki/Guarani_International_Airport
+148,MMAS,AGU,Aeropuerto Internacional Jesús Terán Peredo,medium_airport,475,113,4,https://www.aeropuertosgap.com.mx/es/aguascalientes.html,2024-06-27 0:00:00,2024-06-27 0:00:00,21.699589,-102.318372,6112,https://en.wikipedia.org/wiki/Lic._Jes%C3%BAs_Ter%C3%A1n_Peredo_International_Airport
+149,SVAC,AGV,Oswaldo Guevara Mujica Airport,medium_airport,187,193,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.553375,-69.237869,640,https://en.wikipedia.org/wiki/Oswaldo_Guevara_Mujica_Airport
+150,AU-AGW,AGW,Agnew Airport,small_airport,47935,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-12.1456,142.149369,160,https://en.wikipedia.org/wiki/Agnew_Airport
+151,VOAT,AGX,Agatti Airport,medium_airport,47936,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.8237,72.176003,14,https://en.wikipedia.org/wiki/Agatti_Aerodrome
+152,AGY,AGY,Argyle Downs Airport,small_airport,47937,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-16.508604,128.922485,407,https://en.wikipedia.org/wiki/Argyle_Downs_Airport
+153,FAAG,AGZ,Aggeneys Airport,medium_airport,47938,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-29.281799,18.8139,2648,https://en.wikipedia.org/wiki/Aggeneys_Airport
+154,OEAB,AHB,Abha International Airport,medium_airport,103,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,18.2404,42.656601,6858,https://en.wikipedia.org/wiki/Abha_International_Airport
+155,KAHC,AHC,Amedee Army Air Field,small_airport,47939,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.26620102,-120.1529999,4012,https://en.wikipedia.org/wiki/Amedee_Army_Airfield
+156,K1F0,AHD,Ardmore Downtown Executive Airport,small_airport,2501,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.14699936,-97.12270355,844,https://en.wikipedia.org/wiki/Ardmore_Downtown_Executive_Airport
+157,NTHE,AHE,Ahe Airport,medium_airport,47940,198,6,http://www.sia.aviation-civile.gouv.fr/aip/enligne/PDF_AIPparSSection/AIP%20PAC-P/AD/2/0703_AD%202.NTHE.pdf,2024-06-27 0:00:00,2024-06-27 0:00:00,-14.42809963,-146.2570038,11,https://en.wikipedia.org/wiki/Ahe_Airport
+158,K37V,AHF,Arapahoe Municipal Airport,small_airport,47941,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.341576,-99.907839,2270,https://en.wikipedia.org/wiki/Arapahoe_Municipal_Airport
+159,KAHH,AHH,Amery Municipal Airport,small_airport,47942,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.28110123,-92.37539673,1088,https://en.wikipedia.org/wiki/Amery_Municipal_Airport
+160,WAPA,AHI,Amahai Airport,small_airport,1401,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.347851,128.927093,29,https://en.wikipedia.org/wiki/Amahai_Airport
+161,AHJ,AHJ,Hongyuan Airport,medium_airport,47943,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.53154,102.35224,11600,https://en.wikipedia.org/wiki/Hongyuan_Airport
+162,SYAH,AHL,Aishalton Airport,small_airport,47944,71,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,2.47403,-59.320786,587,https://en.wikipedia.org/wiki/Aishalton_Airport
+163,KS03,AHM,Ashland Municipal Airport-Sumner Parker Field,small_airport,2830,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.190265,-122.660648,1885,https://en.wikipedia.org/wiki/Ashland_Municipal_Airport
+164,KAHN,AHN,Athens Ben Epps Airport,medium_airport,2954,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.948842,-83.325634,808,https://en.wikipedia.org/wiki/Athens-Ben_Epps_Airport
+165,LIEA,AHO,Alghero-Fertilia Airport,medium_airport,1152,82,3,http://www.aeroportodialghero.it/home_en.asp,2024-06-27 0:00:00,2024-06-27 0:00:00,40.632099,8.29077,87,https://en.wikipedia.org/wiki/Alghero-Fertilia_Airport
+166,MHAH,AHS,Ahuas Airport,small_airport,47945,73,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.4722,-84.352203,249,https://en.wikipedia.org/wiki/Ahuas_Airport
+167,GMTA,AHU,Cherif Al Idrissi Airport,medium_airport,820,119,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.17710114,-3.839519978,95,https://en.wikipedia.org/wiki/Cherif_Al_Idrissi_Airport
+168,AHY,AHY,Ambatolhy Airport,small_airport,1501,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-20.01583333,45.535,340,
+169,LFHU,AHZ,Altiport L'Alpe d'Huez - Henri GIRAUD,small_airport,47946,60,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.087399,6.083604,6102,https://fr.wikipedia.org/wiki/Altiport_de_l'Alpe_d'Huez
+170,KAIA,AIA,Alliance Municipal Airport,medium_airport,1220,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.052543,-102.803965,3931,https://en.wikipedia.org/wiki/Alliance_Municipal_Airport
+171,AIP,AIC,Ailinglaplap Airok Airport,small_airport,47947,110,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.279422,168.8257,16,https://en.wikipedia.org/wiki/Ailinglaplap_Airok_Airport
+172,KAID,AID,Anderson Municipal Darlington Field,small_airport,1875,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.10860062,-85.61299896,919,https://en.wikipedia.org/wiki/Anderson_Municipal_Airport
+173,AIE,AIE,Aiome Airport,small_airport,47948,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-5.145699978,144.7307003,350,https://en.wikipedia.org/wiki/Aiome_Airport
+174,SNAX,AIF,Marcelo Pires Halzhausen Airport,small_airport,2885,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-22.638601,-50.455983,1850,https://en.wikipedia.org/wiki/Assis_Airport
+175,FEFY,AIG,Yalinga Airport,small_airport,47949,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.519999981,23.26000023,1975,https://en.wikipedia.org/wiki/Yalinga_Airport
+176,AIH,AIH,Aiambak Airport,small_airport,47950,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.342777778,141.2675,90,https://en.wikipedia.org/wiki/Aiambak_Airport
+177,HDAS,AII,Ali-Sabieh Airport,small_airport,47951,47,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.146889,42.72,2313,https://en.wikipedia.org/wiki/Ali-Sabieh_Airport
+178,KAIK,AIK,Aiken Regional Airport,small_airport,541,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.649399,-81.684998,528,https://en.wikipedia.org/wiki/Aiken_Municipal_Airport
+179,PA-0003,AIL,Ailigandí Airport,small_airport,47952,136,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.2226,-78.0236,55,https://en.wikipedia.org/wiki/Ailigandí_Airport
+180,MH-AIM,AIM,Ailuk Airport,small_airport,47953,110,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.21679974,169.9830017,,https://en.wikipedia.org/wiki/Ailuk_Airport
+181,PAWI,AIN,Wainwright Airport,medium_airport,47954,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,70.638,-159.994995,41,https://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)
+182,KAIO,AIO,Atlantic Municipal Airport,small_airport,47955,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.40729904,-95.04689789,1165,https://en.wikipedia.org/wiki/Atlantic_Municipal_Airport
+183,VIAX,AIP,Adampur Airport,small_airport,281,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.4338,75.758797,775,https://en.wikipedia.org/wiki/Adampur_Air_Force_Base
+184,SWRP,AIR,Aripuanã Airport,small_airport,47956,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-10.187375,-59.457469,755,https://en.wikipedia.org/wiki/Aripuan%C3%A3_Airport
+185,NGTR,AIS,Arorae Island Airport,small_airport,47957,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-2.616233,176.802209,,https://en.wikipedia.org/wiki/Arorae_Airport
+186,NCAI,AIT,Aitutaki Airport,small_airport,47958,201,6,https://cookislandsairports.com/home/,2024-06-27 0:00:00,2024-06-27 0:00:00,-18.8309,-159.764008,14,https://en.wikipedia.org/wiki/Aitutaki_Airport
+187,NCAT,AIU,Enua Airport,small_airport,47959,201,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.96780014,-158.1190033,36,https://en.wikipedia.org/wiki/Enua_Airport
+188,KAIV,AIV,George Downer Airport,small_airport,47960,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.106499,-88.1978,150,https://en.wikipedia.org/wiki/George_Downer_Airport
+189,FYAA,AIW,Ai-Ais Airport,small_airport,47961,122,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-27.995,17.5966,2000,
+190,KAIZ,AIZ,Lee C Fine Memorial Airport,small_airport,47962,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.09600067,-92.54949951,869,https://en.wikipedia.org/wiki/Lee_C._Fine_Memorial_Airport
+191,LFKJ,AJA,Ajaccio-Napoléon Bonaparte Airport,medium_airport,47963,60,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.92359924,8.802920341,18,https://en.wikipedia.org/wiki/Ajaccio_-_Campo_dell'Oro_Airport
+192,OESK,AJF,Al-Jawf Domestic Airport,medium_airport,47964,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.78510094,40.09999847,2261,https://en.wikipedia.org/wiki/Al-Jawf_Domestic_Airport
+193,LTCO,AJI,Ağrı Airport,medium_airport,47965,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.655642,43.025742,5462,https://en.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Airport
+194,GQNJ,AJJ,Akjoujt Airport,small_airport,716,111,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.727998,-14.377214,403,https://en.wikipedia.org/wiki/Akjoujt_Airport
+195,OIHR,AJK,Arak Airport,small_airport,47966,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.1381,49.847301,5440,https://en.wikipedia.org/wiki/Arak_Airport
+196,VELP,AJL,Lengpui Airport,medium_airport,47967,76,1,http://www.aai.aero/allAirports/lengpui.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,23.840599,92.619698,1398,https://en.wikipedia.org/wiki/Lengpui_Airport
+197,FMCV,AJN,Ouani Airport,medium_airport,30947,38,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-12.131047,44.430044,62,https://en.wikipedia.org/wiki/Ouani_Airport
+198,ESNX,AJR,Arvidsjaur Airport,medium_airport,47968,169,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,65.59030151,19.28190041,1245,https://en.wikipedia.org/wiki/Arvidsjaur_Airport
+199,MX-AJS,AJS,Punta Abreojos Airport,small_airport,47969,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.7272,-113.558998,26,https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip
+200,SBAR,AJU,Aracaju - Santa Maria International Airport,medium_airport,2353,24,5,https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-santa-maria-aracaju/,2024-06-27 0:00:00,2024-06-27 0:00:00,-10.984,-37.070301,139,https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)
+201,DRZA,AJY,Mano Dayak International Airport,medium_airport,379,128,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.9659996,8.000109673,1657,https://en.wikipedia.org/wiki/Mano_Dayak_International_Airport
+202,ZLAK,AKA,Ankang Fuqiang Airport,small_airport,47970,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.75696,108.87338,1209,https://en.wikipedia.org/wiki/Ankang_Fuqiang_Airport
+203,PAAK,AKB,Atka Airport,small_airport,47971,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,52.220299,-174.205994,57,https://en.wikipedia.org/wiki/Atka_Airport
+204,KAKR,AKC,Akron Executive Airport,medium_airport,732,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.037498,-81.466904,1067,https://en.wikipedia.org/wiki/Akron_Executive_Airport
+205,VAAK,AKD,Akola Airport,medium_airport,723,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,20.698931,77.056883,999,https://en.wikipedia.org/wiki/Akola_Airport
+206,GA-AKE,AKE,Akieni Airport,small_airport,47972,61,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.139670014,13.90359974,1660,https://en.wikipedia.org/wiki/Akieni_Airport
+207,HLKF,AKF,Kufra Airport,medium_airport,47973,100,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.17869949,23.31399918,1367,https://en.wikipedia.org/wiki/Kufra_Airport
+208,PG-AKG,AKG,Anguganak Airport,small_airport,47974,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.560504,142.217307,937,
+209,OEPS,AKH,Prince Sultan Air Base,medium_airport,35438,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.0627,47.580502,1651,https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base
+210,PFAK,AKI,Akiak Airport,small_airport,47975,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,60.902646,-161.23106,30,https://en.wikipedia.org/wiki/Akiak_Airport
+211,RJEC,AKJ,Asahikawa Airport,medium_airport,16967,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.670799,142.447006,721,https://en.wikipedia.org/wiki/Asahikawa_Airport
+212,PAKH,AKK,Akhiok Airport,small_airport,47976,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,56.938702,-154.182999,44,https://en.wikipedia.org/wiki/Akhiok_Airport
+213,NZAA,AKL,Auckland International Airport,large_airport,3042,126,6,http://www.auckland-airport.co.nz/,2024-06-27 0:00:00,2024-06-27 0:00:00,-37.01199,174.786331,23,https://en.wikipedia.org/wiki/Auckland_International_Airport
+214,AKM,AKM,Zakuoma Airport,small_airport,47977,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.89027778,19.81722222,1370,https://en.wikipedia.org/wiki/Zakouma_Airport
+215,PAKN,AKN,King Salmon Airport,medium_airport,47978,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,58.677845,-156.651965,73,https://en.wikipedia.org/wiki/King_Salmon_Airport
+216,KAKO,AKO,Colorado Plains Regional Airport,small_airport,732,188,4,http://www.co.washington.co.us/airport.htm,2024-06-27 0:00:00,2024-06-27 0:00:00,40.17559814,-103.2220001,4714,https://en.wikipedia.org/wiki/Colorado_Plains_Regional_Airport
+217,PAKP,AKP,Anaktuvuk Pass Airport,medium_airport,47979,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,68.133598,-151.742996,2102,https://en.wikipedia.org/wiki/Anaktuvuk_Pass_Airport
+218,ID-AKQ,AKQ,Gunung Batin Airport,small_airport,47980,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.61114,105.232002,99,https://en.wikipedia.org/wiki/Prince_M._Bunyamin_Air_Force_Base
+219,DNAK,AKR,Akure Airport,medium_airport,748,129,2,http://www.faannigeria.org/nigeria-airport.php?airport=21,2024-06-27 0:00:00,2024-06-27 0:00:00,7.246739864,5.301010132,1100,https://en.wikipedia.org/wiki/Akure_Airport
+220,AGGA,AKS,Gwaunaru'u Airport,small_airport,3061,161,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.70257,160.682007,5,https://en.wikipedia.org/wiki/Auki_Airport
+221,LCRA,AKT,RAF Akrotiri,medium_airport,47981,44,1,http://www.raf.mod.uk/rafakrotiri/passengerinformation/,2024-06-27 0:00:00,2024-06-27 0:00:00,34.590401,32.9879,76,https://en.wikipedia.org/wiki/RAF_Akrotiri
+222,ZWAK,AKU,Aksu Hongqipo Airport,medium_airport,47982,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.262501,80.291702,3816,https://en.wikipedia.org/wiki/Aksu_Hongqipo_Airport
+223,CYKO,AKV,Akulivik Airport,small_airport,47983,32,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,60.8186,-78.148598,75,https://en.wikipedia.org/wiki/Akulivik_Airport
+224,OIAG,AKW,Aghajari Airport,medium_airport,47984,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.7444,49.6772,88,https://en.wikipedia.org/wiki/Aghajari_Airport
+225,UATT,AKX,Aktobe Airport,medium_airport,47985,87,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,50.2458,57.206699,738,https://en.wikipedia.org/wiki/Aktobe_Airport
+226,VYSW,AKY,Sittwe Airport,medium_airport,39911,121,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,20.133165,92.870693,27,https://en.wikipedia.org/wiki/Sittwe_Airport
+227,UAAA,ALA,Almaty International Airport,large_airport,1239,87,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.354267,77.042828,2234,https://en.wikipedia.org/wiki/Almaty_International_Airport
+228,KALB,ALB,Albany International Airport,medium_airport,999,188,4,http://www.albanyairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,42.74829865,-73.80169678,285,https://en.wikipedia.org/wiki/Albany_International_Airport
+229,LEAL,ALC,Alicante-Elche Miguel Hernández Airport,large_airport,1173,165,3,https://www.aena.es/en/alicante-elche.html,2024-06-27 0:00:00,2024-06-27 0:00:00,38.2822,-0.558156,142,https://en.wikipedia.org/wiki/Alicante_Airport
+230,SPAR,ALD,Alerta Airport,small_airport,14024,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-11.65018,-69.229614,797,https://en.wikipedia.org/wiki/Alerta_Airport
+231,KE38,ALE,Alpine Casparis Municipal Airport,small_airport,1281,188,4,http://www.ci.alpine.tx.us/airport.shtml,2024-06-27 0:00:00,2024-06-27 0:00:00,30.38419914,-103.6839981,4515,https://en.wikipedia.org/wiki/Alpine-Casparis_Municipal_Airport
+232,ENAT,ALF,Alta Airport,medium_airport,1291,131,3,https://avinor.no/en/airport/alta-airport/,2024-06-27 0:00:00,2024-06-27 0:00:00,69.97609711,23.37170029,9,https://en.wikipedia.org/wiki/Alta_Airport
+233,DAAG,ALG,Houari Boumediene Airport,large_airport,1153,3,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.693886,3.214531,82,https://en.wikipedia.org/wiki/Houari_Boumediene_Airport
+234,YABA,ALH,Albany Airport,medium_airport,999,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-34.94329834,117.8089981,233,https://en.wikipedia.org/wiki/Albany_Airport_(Australia)
+235,KALI,ALI,Alice International Airport,medium_airport,1174,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.7409,-98.026901,178,https://en.wikipedia.org/wiki/Alice_International_Airport
+236,FAAB,ALJ,Alexander Bay Airport,medium_airport,1115,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-28.575001,16.5333,98,https://en.wikipedia.org/wiki/Alexander_Bay_Airport
+237,LIMG,ALL,Riviera Villanova d'Albenga International Airport,medium_airport,47986,82,3,http://www.rivierairport.it/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.050598,8.12743,148,https://en.wikipedia.org/wiki/Villanova_d'Albenga_International_Airport
+238,KALM,ALM,Alamogordo White Sands Regional Airport,medium_airport,954,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.84051,-105.98794,4200,https://en.wikipedia.org/wiki/Alamogordo-White_Sands_Regional_Airport
+239,KALN,ALN,St Louis Regional Airport,medium_airport,47987,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.89030075,-90.04599762,544,https://en.wikipedia.org/wiki/St._Louis_Regional_Airport
+240,KALO,ALO,Waterloo Regional Airport,medium_airport,45853,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.55709839,-92.40029907,873,https://en.wikipedia.org/wiki/Waterloo_Regional_Airport
+241,OSAP,ALP,Aleppo International Airport,medium_airport,1107,171,1,http://www.aleppo-airport.com/en/,2024-06-27 0:00:00,2024-06-27 0:00:00,36.180698,37.2244,1276,https://en.wikipedia.org/wiki/Aleppo_International_Airport
+242,SSLT,ALQ,Alegrete Novo Airport,small_airport,1084,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-29.811595,-55.894707,410,https://en.wikipedia.org/wiki/Alegrete_Airport
+243,NZLX,ALR,Alexandra Aerodrome,medium_airport,47988,126,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-45.210495,169.371113,752,https://en.wikipedia.org/wiki/Alexandra_Aerodrome
+244,KALS,ALS,San Luis Valley Regional Airport/Bergman Field,medium_airport,956,188,4,https://www.sanluisvalleyairport.org/,2024-06-27 0:00:00,2024-06-27 0:00:00,37.434898,-105.866997,7539,https://en.wikipedia.org/wiki/San_Luis_Valley_Regional_Airport
+245,BR-ALT,ALT,Alenquer Municipal Airport,small_airport,1105,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.917,-54.7231,55,https://en.wikipedia.org/wiki/Alenquer_Airport
+246,HCMA,ALU,Caluula Airport,small_airport,7648,162,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.9582,50.748,6,https://en.wikipedia.org/wiki/Alula_Airport
+247,KALW,ALW,Walla Walla Regional Airport,medium_airport,45670,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.09489822,-118.288002,1194,https://en.wikipedia.org/wiki/Walla_Walla_Regional_Airport
+248,KALX,ALX,Thomas C Russell Field,small_airport,1116,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.91469955,-85.96299744,686,https://en.wikipedia.org/wiki/Thomas_C._Russell_Field
+249,ALZ,ALZ,Alitak Seaplane Base,seaplane_base,47989,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,56.897294,-154.249692,,https://en.wikipedia.org/wiki/Alitak_Seaplane_Base
+250,KAMA,AMA,Rick Husband Amarillo International Airport,medium_airport,1429,188,4,http://airport.amarillo.gov/,2024-06-27 0:00:00,2024-06-27 0:00:00,35.219398,-101.706001,3607,https://en.wikipedia.org/wiki/Rick_Husband_Amarillo_International_Airport
+251,FMNE,AMB,Ambilobe Airport,small_airport,1535,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.1884,48.987999,72,https://en.wikipedia.org/wiki/Ambilobe_Airport
+252,FTTN,AMC,Am Timan Airport,small_airport,47990,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.0340004,20.27400017,1420,https://en.wikipedia.org/wiki/Am_Timan_Airport
+253,VAAH,AMD,Sardar Vallabh Bhai Patel International Airport,medium_airport,512,76,1,https://www.adani.com/svpia-ahmedabad-airport,2024-06-27 0:00:00,2024-06-27 0:00:00,23.0772,72.634697,189,https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_International_Airport
+254,AME,AME,Alto Molocue Airport,small_airport,47991,120,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-15.61027778,37.68138889,1950,
+255,AMF,AMF,Ama Airport,small_airport,1394,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.101111111,141.67,145,
+256,HAAM,AMH,Arba Minch Airport,medium_airport,47992,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.03939,37.5905,3901,https://en.wikipedia.org/wiki/Arba_Minch_Airport
+257,WADA,AMI,Selaparang Airport,small_airport,26142,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.56056,116.095097,52,https://en.wikipedia.org/wiki/Selaparang_Airport
+258,SNAR,AMJ,Cirilo Queiróz Airport,small_airport,1245,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-16.165579,-40.684024,640,
+259,K00C,AMK,Animas Air Park,small_airport,12267,188,4,https://www.codot.gov/programs/colorado-airports-map/00C,2024-06-27 0:00:00,2024-06-27 0:00:00,37.203201,-107.869003,6684,https://en.wikipedia.org/wiki/Animas_Air_Park
+260,PA-AML,AML,Puerto Armuelles Airport,small_airport,33812,136,4,https://visitpuertoarmuelles.com/airport-update-for-puerto-armuelles,2024-06-27 0:00:00,2024-06-27 0:00:00,8.267667,-82.864537,42,
+261,OJAI,AMM,Queen Alia International Airport,large_airport,1684,86,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.72260094,35.99319839,2395,https://en.wikipedia.org/wiki/Queen_Alia_International_Airport
+262,KAMN,AMN,Gratiot Community Airport,small_airport,1230,188,4,http://www.ci.alma.mi.us/1/307/airport.asp,2024-06-27 0:00:00,2024-06-27 0:00:00,43.32210159,-84.68800354,754,https://en.wikipedia.org/wiki/Gratiot_Community_Airport
+263,FTTU,AMO,Mao Airport,small_airport,25634,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.1456,15.3144,1072,https://en.wikipedia.org/wiki/Mao_Airport
+264,FMSY,AMP,Ampanihy Airport,small_airport,1710,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.699699,44.7342,771,https://en.wikipedia.org/wiki/Ampanihy_Airport
+265,WAPP,AMQ,Pattimura International Airport,medium_airport,1621,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.71026,128.089005,33,https://en.wikipedia.org/wiki/Pattimura_Airport
+266,EHAM,AMS,Amsterdam Airport Schiphol,large_airport,1748,125,3,https://www.schiphol.nl/,2024-06-27 0:00:00,2024-06-27 0:00:00,52.308601,4.76389,-11,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol
+268,AMU,AMU,Amanab Airport,small_airport,47993,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.586,141.2143333,1307,
+269,ULDD,AMV,Amderma Airport,medium_airport,1639,145,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,69.76329803,61.5564003,13,https://en.wikipedia.org/wiki/Amderma_Airport
+270,KAMW,AMW,Ames Municipal Airport,small_airport,1654,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.992001,-93.621803,956,https://en.wikipedia.org/wiki/Ames_Municipal_Airport
+272,AMY,AMY,Ambatomainty Airport,small_airport,1507,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-17.686667,45.623889,1025,https://en.wikipedia.org/wiki/Ambatomainty_Airport
+273,NZAR,AMZ,Ardmore Airport,medium_airport,47994,126,6,http://www.nzar.co.nz/,2024-06-27 0:00:00,2024-06-27 0:00:00,-37.02970123,174.9730072,111,https://en.wikipedia.org/wiki/Ardmore_Airport
+274,KE-6112,ANA,Angama Airport,small_airport,47995,88,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.27156,34.955513,6180,https://en.wikipedia.org/wiki/Angama_Mara_Airport
+275,KANB,ANB,Anniston Regional Airport,medium_airport,2091,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.5882,-85.8581,612,https://en.wikipedia.org/wiki/Anniston_Metropolitan_Airport
+276,PANC,ANC,Ted Stevens Anchorage International Airport,large_airport,1844,188,4,https://dot.alaska.gov/anc/,2024-06-27 0:00:00,2024-06-27 0:00:00,61.179004,-149.992561,152,https://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport
+277,KAND,AND,Anderson Regional Airport,medium_airport,1875,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.49459839,-82.70939636,782,https://en.wikipedia.org/wiki/Anderson_Regional_Airport
+278,LFJR,ANE,Angers-Loire Airport,medium_airport,47996,60,3,https://www.angers.aeroport.fr/en,2024-06-27 0:00:00,2024-06-27 0:00:00,47.560299,-0.312222,194,https://en.wikipedia.org/wiki/Angers_–_Loire_Airport
+279,SCFA,ANF,Andrés Sabella Gálvez International Airport,medium_airport,2188,35,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.444501,-70.445099,455,https://en.wikipedia.org/wiki/Andr%C3%A9s_Sabella_G%C3%A1lvez_International_Airport
+280,LFBU,ANG,Angoulême-Brie-Champniers Airport,medium_airport,47997,60,3,https://angouleme-airport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,45.729198,0.221456,436,https://en.wikipedia.org/wiki/Angoul%C3%AAme_-_Brie_-_Champniers_Airport
+281,PANI,ANI,Aniak Airport,medium_airport,47998,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,61.58160019,-159.5429993,88,https://en.wikipedia.org/wiki/Aniak_Airport
+282,FCBZ,ANJ,Zanaga Airport,small_airport,47999,40,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-2.85,13.817,1870,https://en.wikipedia.org/wiki/Zanaga_Airport
+283,LTAD,ANK,Etimesgut Air Base,medium_airport,2034,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.94979858,32.68859863,2653,https://en.wikipedia.org/wiki/Etimesgut_Air_Base
+284,AO-0005,ANL,Andulo Airport,small_airport,48000,5,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-11.4723,16.710899,,https://en.wikipedia.org/wiki/Andulo_Airport
+285,FMNH,ANM,Antsirabe Airport,medium_airport,2228,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-14.9994,50.320202,20,https://en.wikipedia.org/wiki/Antsirabato_Airport
+286,PANT,ANN,Annette Island Airport,medium_airport,48001,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,55.037663,-131.572609,119,https://en.wikipedia.org/wiki/Annette_Island_Airport
+287,FQAG,ANO,Angoche Airport,small_airport,48002,120,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-16.18187,39.945217,121,https://en.wikipedia.org/wiki/Angoche_Airport
+288,KANP,ANP,Lee Airport,small_airport,2082,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.942902,-76.568398,34,https://en.wikipedia.org/wiki/Lee_Airport
+289,KANQ,ANQ,Tri State Steuben County Airport,small_airport,1983,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.639702,-85.083504,995,https://en.wikipedia.org/wiki/Tri-State_Steuben_County_Airport
+290,EBAW,ANR,Antwerp International Airport (Deurne),medium_airport,2238,17,3,http://www.antwerp-airport.be/,2024-06-27 0:00:00,2024-06-27 0:00:00,51.190667,4.463153,39,https://en.wikipedia.org/wiki/Antwerp_International_Airport
+291,SPHY,ANS,Andahuaylas Airport,small_airport,1853,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.70639992,-73.35040283,11300,https://en.wikipedia.org/wiki/Andahuaylas_Airport
+292,TAPA,ANU,V C Bird International Airport,medium_airport,48003,6,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,17.1367,-61.792702,62,https://en.wikipedia.org/wiki/VC_Bird_International_Airport
+293,PANV,ANV,Anvik Airport,medium_airport,48004,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,62.646702,-160.190994,291,https://en.wikipedia.org/wiki/Anvik_Airport
+294,KANW,ANW,Ainsworth Regional Airport,small_airport,48005,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.579201,-99.992995,2589,https://en.wikipedia.org/wiki/Ainsworth_Regional_Airport
+295,ENAN,ANX,"Andøya Airport, Andenes",medium_airport,48006,131,3,https://avinor.no/en/airport/andoya-airport/,2024-06-27 0:00:00,2024-06-27 0:00:00,69.292503,16.144199,43,https://en.wikipedia.org/wiki/And%C3%B8ya_Airport%2C_Andenes
+296,KANY,ANY,Anthony Municipal Airport,small_airport,2178,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.158501,-98.079597,1340,https://en.wikipedia.org/wiki/Anthony_Municipal_Airport
+297,ANZ,ANZ,Angus Downs Airport,small_airport,48007,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-25.0325,132.2748,1724,
+299,EDAC,AOC,Leipzig–Altenburg Airport,medium_airport,48008,64,3,http://www.leipzig-altenburg-airport.de/,2024-06-27 0:00:00,2024-06-27 0:00:00,50.981945,12.506389,640,https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport
+300,AOD,AOD,Abou-Deïa Airport,small_airport,48009,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.4773,19.2874,1592,https://en.wikipedia.org/wiki/Abou-De%C3%AFa_Airport
+301,LTBY,AOE,Anadolu Airport,medium_airport,48010,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.809898,30.5194,2588,https://en.wikipedia.org/wiki/Anadolu_Airport
+302,ZYAS,AOG,Anshan Teng'ao Airport / Anshan Air Base,medium_airport,2131,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.105301,122.853996,,https://en.wikipedia.org/wiki/Anshan_Teng%27ao_Airport
+303,KAOH,AOH,Lima Allen County Airport,small_airport,23703,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.706902,-84.026703,975,https://en.wikipedia.org/wiki/Lima_Allen_County_Airport
+304,LIPY,AOI,Marche Airport,medium_airport,1846,82,3,http://www.aeroportomarche.com/index.php?lang=english,2024-06-27 0:00:00,2024-06-27 0:00:00,43.616299,13.3623,49,https://en.wikipedia.org/wiki/Marche_Airport
+305,RJSA,AOJ,Aomori Airport,medium_airport,2253,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.73469925,140.6909943,664,https://en.wikipedia.org/wiki/Aomori_Airport
+306,LGKP,AOK,Karpathos Airport,medium_airport,48011,66,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.421398,27.146,66,https://en.wikipedia.org/wiki/Karpathos_Island_National_Airport
+307,SARL,AOL,Paso De Los Libres Airport,medium_airport,31929,7,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-29.6894,-57.1521,230,https://en.wikipedia.org/wiki/Paso_de_los_Libres_Airport
+308,OM-0002,AOM,Adam Airport,small_airport,48012,132,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,22.49194444,57.38388889,1075,https://en.wikipedia.org/wiki/Adam_Airport
+309,KAOO,AOO,Altoona Blair County Airport,medium_airport,1353,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.296398,-78.32,1503,https://en.wikipedia.org/wiki/Altoona-Blair_County_Airport
+310,SPAS,AOP,Alferez FAP Alfredo Vladimir Sara Bauer Airport,small_airport,1898,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-2.796129942,-76.46659851,728,https://en.wikipedia.org/wiki/Alferez_FAP_Alfredo_Vladimir_Sara_Bauer_Airport
+311,BGAG,AOQ,Aappilattoq Heliport,heliport,48013,200,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,72.88703,-55.596287,42,https://en.wikipedia.org/wiki/Aappilattoq_Heliport_(Avannaata)
+312,WMKA,AOR,Sultan Abdul Halim Airport,medium_airport,48014,106,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.189670086,100.3980026,15,https://en.wikipedia.org/wiki/Sultan_Abdul_Halim_Airport
+313,AK81,AOS,Amook Bay Seaplane Base,seaplane_base,48015,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,57.4715004,-153.8150024,,https://en.wikipedia.org/wiki/Amook_Bay_Seaplane_Base
+314,LIMW,AOT,Aosta Corrado Gex Airport,medium_airport,48016,82,3,http://www.avda-aosta.it/,2024-06-27 0:00:00,2024-06-27 0:00:00,45.738552,7.3683,1791,https://en.wikipedia.org/wiki/Aosta_Airport
+315,VLAP,AOU,Attopeu Airport,small_airport,48017,95,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.793056,107.045278,344,https://en.wikipedia.org/wiki/Attapeu_International_Airport
+316,KAPA,APA,Centennial Airport,medium_airport,11270,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.57009888,-104.848999,5885,https://en.wikipedia.org/wiki/Centennial_Airport
+317,SLAP,APB,Apolo Airport,small_airport,2299,21,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-14.7356,-68.411903,4639,https://en.wikipedia.org/wiki/Apolo_Airport
+318,KAPC,APC,Napa County Airport,small_airport,28784,188,4,http://www.napacountyairport.org/,2024-06-27 0:00:00,2024-06-27 0:00:00,38.2132,-122.280998,35,https://en.wikipedia.org/wiki/Napa_County_Airport
+319,WAWN,APD,Arung Palakka Airport,small_airport,48018,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.459582,120.310436,130,https://id.wikipedia.org/wiki/Bandar_Udara_Arung_Palakka
+320,KAPF,APF,Naples Municipal Airport,medium_airport,28789,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.15259933,-81.77529907,8,https://en.wikipedia.org/wiki/Naples_Municipal_Airport
+321,KAPG,APG,Phillips Army Air Field,medium_airport,92,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.466202,-76.1688,57,https://en.wikipedia.org/wiki/Phillips_Army_Airfield
+322,KAPH,APH,Mary Walker LZ Airport,small_airport,6592,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.068631,-77.319318,220,https://en.wikipedia.org/wiki/A.P._Hill_Army_Airfield
+323,SKAP,API,Gomez Nino Apiay Air Base,medium_airport,48019,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.07607,-73.5627,1207,https://en.wikipedia.org/wiki/Captain_Luis_F._G%C3%B3mez_Ni%C3%B1o_Air_Base
+324,CN-0354,APJ,Ali Pulan Airport,medium_airport,48020,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.3975,81.138611,13943,https://en.wikipedia.org/wiki/Ali_Pulan_Airport
+325,NTGD,APK,Apataki Airport,small_airport,48021,198,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-15.5736,-146.414993,8,https://en.wikipedia.org/wiki/Apataki_Airport
+326,FQNP,APL,Nampula Airport,medium_airport,28664,120,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-15.10560036,39.28179932,1444,https://en.wikipedia.org/wiki/Nampula_Airport
+327,KAPN,APN,Alpena County Regional Airport,medium_airport,1277,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.0780983,-83.56030273,690,https://en.wikipedia.org/wiki/Alpena_County_Regional_Airport
+328,SKLC,APO,Antonio Roldán Betancur Airport,medium_airport,8066,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.81196,-76.7164,46,https://en.wikipedia.org/wiki/Antonio_Rold%C3%A1n_Betancur_Airport
+330,SNAL,APQ,Arapiraca Airport,small_airport,2419,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.776589,-36.628983,886,https://pt.wikipedia.org/wiki/Aeroporto_de_Arapiraca
+331,APR,APR,April River Airport,small_airport,48022,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.676666667,142.5401389,220,
+332,SWNS,APS,Anápolis Airport,small_airport,48023,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-16.36230087,-48.92710114,3648,http://pt.wikipedia.org/wiki/Aeroporto_de_An%C3%A1polis
+333,KAPT,APT,Marion County Airport - Brown Field,small_airport,18913,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.060699,-85.585297,641,https://en.wikipedia.org/wiki/Marion_County_Airport_(Tennessee)
+334,SSAP,APU,Captain João Busse Airport,small_airport,2319,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.609099,-51.384301,2625,https://en.wikipedia.org/wiki/Apucarana_Airport
+335,KAPV,APV,Apple Valley Airport,small_airport,2309,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.57529831,-117.185997,3062,https://en.wikipedia.org/wiki/Apple_Valley_Airport_(California)
+336,NSFA,APW,Faleolo International Airport,medium_airport,2289,150,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.82999992,-172.0079956,58,https://en.wikipedia.org/wiki/Faleolo_International_Airport
+337,SSOG,APX,Arapongas Airport,small_airport,2420,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.3529,-51.491699,2599,https://en.wikipedia.org/wiki/Arapongas_Airport
+338,SNAI,APY,Alto Parnaíba Airport,small_airport,48024,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.083611,-45.950558,968,https://pt.wikipedia.org/wiki/Aeroporto_de_Alto_Parna%C3%ADba
+339,SAHZ,APZ,Zapala Airport,medium_airport,47418,7,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-38.975498,-70.113602,3330,https://en.wikipedia.org/wiki/Zapala_Airport
+340,SBAQ,AQA,Araraquara Airport,medium_airport,2427,24,5,http://www.daesp.sp.gov.br/aeroporto-estadual-de-araraquara-bartolomeu-de-gusmao/,2024-06-27 0:00:00,2024-06-27 0:00:00,-21.812,-48.132999,2334,https://en.wikipedia.org/wiki/Araraquara_Airport
+341,MGQC,AQB,Quiché Airport,small_airport,48025,68,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.0122,-91.150597,6631,https://en.wikipedia.org/wiki/Quich%C3%A9_Airport
+342,ZSAQ,AQG,Anqing Tianzhushan Airport / Anqing North Air Base,medium_airport,2115,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.582199,117.050003,,https://en.wikipedia.org/wiki/Anqing_Tianzhushan_Airport
+343,OEPA,AQI,Al Qaisumah/Hafr Al Batin Airport,medium_airport,48026,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.335199,46.125099,1174,https://en.wikipedia.org/wiki/Al_Qaisumah/Hafr_Al_Batin_Airport
+344,OJAQ,AQJ,Aqaba King Hussein International Airport,medium_airport,48027,86,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.61160088,35.01810074,175,https://en.wikipedia.org/wiki/Aqaba_Airport
+345,SJOG,AQM,Ariquemes Airport,small_airport,2565,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.880436,-63.047115,466,https://en.wikipedia.org/wiki/Ariquemes_Airport
+346,SPQU,AQP,Rodríguez Ballón International Airport,medium_airport,2523,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-16.34110069,-71.58309937,8405,https://en.wikipedia.org/wiki/Rodriguez_Ballon_International_Airport
+347,AQY,AQY,Girdwood-Alyeska Airport,small_airport,48028,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,60.968774,-149.119792,150,https://en.wikipedia.org/wiki/Girdwood_Airport
+348,KARA,ARA,Acadiana Regional Airport,medium_airport,29301,188,4,http://www.flyiberiaparish.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,30.0378,-91.883904,24,https://en.wikipedia.org/wiki/Acadiana_Regional_Airport
+349,KARB,ARB,Ann Arbor Municipal Airport,small_airport,2071,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.22299957,-83.74559784,839,https://en.wikipedia.org/wiki/Ann_Arbor_Municipal_Airport
+350,PARC,ARC,Arctic Village Airport,medium_airport,48029,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,68.1147,-145.578995,2092,https://en.wikipedia.org/wiki/Arctic_Village_Airport
+351,WATM,ARD,Alor Island - Mali Airport,small_airport,48030,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.13234,124.597,10,https://en.wikipedia.org/wiki/Alor_Island_Airport
+352,TJAB,ARE,Antonio Nery Juarbe Pol Airport,medium_airport,2509,202,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,18.45085,-66.675768,23,https://en.wikipedia.org/wiki/Antonio_(Nery)_Juarbe_Pol_Airport
+353,SK-471,ARF,Acaricuara Airport,small_airport,48031,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,0.533333,-70.133333,587,
+354,KARG,ARG,Walnut Ridge Regional Airport,small_airport,48032,188,4,http://walnutridgeairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,36.124667,-90.925111,279,https://en.wikipedia.org/wiki/Walnut_Ridge_Regional_Airport
+355,ULAA,ARH,Talagi Airport,medium_airport,48033,145,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,64.60030365,40.71670151,62,https://en.wikipedia.org/wiki/Talagi_Airport
+356,SCAR,ARI,Chacalluta Airport,medium_airport,2551,35,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-18.348499,-70.338699,167,https://en.wikipedia.org/wiki/Chacalluta_International_Airport
+357,HTAR,ARK,Arusha Airport,medium_airport,2706,174,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.367789984,36.63330078,4550,https://en.wikipedia.org/wiki/Arusha_Airport
+358,DFER,ARL,Arly Airport,small_airport,48034,27,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.597,1.483,761,https://en.wikipedia.org/wiki/Arly_Airport
+359,YARM,ARM,Armidale Airport,medium_airport,2606,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-30.52809906,151.6170044,3556,https://en.wikipedia.org/wiki/Armidale_Airport
+360,ESSA,ARN,Stockholm-Arlanda Airport,large_airport,40836,169,3,http://www.swedavia.se/arlanda/,2024-06-27 0:00:00,2024-06-27 0:00:00,59.64849,17.928829,137,https://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport
+361,SK-005,ARO,Arboletes Airport,small_airport,2468,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.855118,-76.422676,13,https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Arboletes
+363,SKAT,ARQ,El Troncal Airport,small_airport,2449,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.02106,-71.388901,512,https://en.wikipedia.org/wiki/El_Troncal_Airport
+364,SAVR,ARR,D. Casimiro Szlapelis Airport,small_airport,48035,7,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-45.013599,-70.812202,2286,https://en.wikipedia.org/wiki/Alto_R%C3%ADo_Senguer_Airport
+365,SJVO,ARS,Aragarças Airport,small_airport,48036,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-15.8994,-52.2411,1061,
+366,KART,ART,Watertown International Airport,medium_airport,45858,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.991901,-76.021698,325,https://en.wikipedia.org/wiki/Watertown_International_Airport
+367,SBAU,ARU,Araçatuba Airport,medium_airport,48037,24,5,http://www.daesp.sp.gov.br/aeroporto-estadual-de-aracatuba-dario-guarita/,2024-06-27 0:00:00,2024-06-27 0:00:00,-21.141479,-50.424575,1361,https://en.wikipedia.org/wiki/Ara%C3%A7atuba_Airport
+368,KARV,ARV,Lakeland-Noble F. Lee Memorial field,small_airport,48038,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.92789841,-89.73090363,1629,https://en.wikipedia.org/wiki/Lakeland_Airport
+369,LRAR,ARW,Arad International Airport,medium_airport,2369,144,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.17660141,21.26199913,352,https://en.wikipedia.org/wiki/Arad_International_Airport
+370,SBAC,ARX,Aracati Dragão do Mar Regional Airport,medium_airport,2357,24,5,https://www.ceara.gov.br/2021/06/25/aeroporto-de-aracati-retoma-voos-comerciais-em-julho/,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.568896,-37.805135,128,https://en.wikipedia.org/wiki/Aracati_Airport
+371,YARA,ARY,Ararat Airport,medium_airport,2429,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-37.309978,142.988688,1008,https://en.wikipedia.org/wiki/Ararat_Airport
+372,FNZE,ARZ,N'zeto Airport,small_airport,48039,5,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.25944,12.8631,69,https://en.wikipedia.org/wiki/N%27zeto_Airport
+373,HHSB,ASA,Assab International Airport,medium_airport,48040,54,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,13.07180023,42.64500046,46,https://en.wikipedia.org/wiki/Asseb_International_Airport
+374,UTAA,ASB,Ashgabat International Airport,large_airport,2821,182,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.986801,58.361,692,https://en.wikipedia.org/wiki/Ashgabat_International_Airport
+375,SLAS,ASC,Ascención De Guarayos Airport,small_airport,48041,21,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-15.9303,-63.1567,807,https://en.wikipedia.org/wiki/Ascensi%C3%B3n_de_Guarayos_Airport
+376,MYAF,ASD,Andros Town Airport,medium_airport,51541,12,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.69790077,-77.79560089,5,https://en.wikipedia.org/wiki/Andros_Town_International_Airport
+377,KASE,ASE,Aspen-Pitkin County Airport (Sardy Field),medium_airport,48042,188,4,http://aspenairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,39.223202,-106.869003,7820,https://en.wikipedia.org/wiki/Aspen%E2%80%93Pitkin_County_Airport
+378,URWA,ASF,Astrakhan Narimanovo Boris M. Kustodiev International Airport,medium_airport,2903,145,1,http://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai/,2024-06-27 0:00:00,2024-06-27 0:00:00,46.282843,48.010511,-65,https://en.wikipedia.org/wiki/Narimanovo_Airport
+380,KASH,ASH,Nashua Airport / Boire Field,small_airport,28890,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.7817,-71.514801,199,https://en.wikipedia.org/wiki/Nashua_Airport
+381,FHAW,ASI,RAF Ascension Island,medium_airport,48043,203,2,http://www.raf.mod.uk/organisation/stations.cfm?selectStation=9DEB5257-FDEF-6850-8B1CFF5050616CC1#cgi.script_name#,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.9696,-14.3937,278,https://en.wikipedia.org/wiki/RAF_Ascension_Island
+382,RJKA,ASJ,Amami Airport,medium_airport,1411,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.43059921,129.7129974,27,https://en.wikipedia.org/wiki/Amami_Airport
+383,DIYO,ASK,Yamoussoukro Airport,medium_airport,46863,83,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.903170109,-5.365580082,699,https://en.wikipedia.org/wiki/Yamoussoukro_Airport
+384,KASL,ASL,Harrison County Airport,small_airport,25945,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.52050018,-94.30780029,357,https://en.wikipedia.org/wiki/Harrison_County_Airport_(Texas)
+385,HHAS,ASM,Asmara International Airport,medium_airport,2863,54,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.29189968,38.91070175,7661,https://en.wikipedia.org/wiki/Asmara_International_Airport
+386,KASN,ASN,Talladega Municipal Airport,small_airport,41687,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.56990051,-86.05090332,529,https://en.wikipedia.org/wiki/Talladega_Municipal_Airport
+387,HASO,ASO,Asosa Airport,medium_airport,2868,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.01850033,34.5862999,5100,https://en.wikipedia.org/wiki/Asosa_Airport
+388,YBAS,ASP,Alice Springs Airport,medium_airport,1176,9,6,http://www.alicespringsairport.com.au/,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.806588,133.903427,1789,https://en.wikipedia.org/wiki/Alice_Springs_Airport
+389,K9U3,ASQ,Austin Airport,small_airport,3095,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.467708,-117.197576,5730,https://en.wikipedia.org/wiki/Austin_Airport_(Nevada)
+390,LTAU,ASR,Kayseri Erkilet Airport,medium_airport,20485,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.770401,35.49539948,3463,https://en.wikipedia.org/wiki/Erkilet_Airport
+391,FACC,ASS,Arathusa Safari Lodge Airport,small_airport,48044,163,2,http://arathusa.co.za/getting-to-arathusa-by-scheduled-flight/,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.744165,31.522499,1289,https://ceb.wikipedia.org/wiki/Arathusa_Safari_Lodge_Airport
+392,KAST,AST,Astoria Regional Airport,medium_airport,2901,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.15800095,-123.8789978,15,https://en.wikipedia.org/wiki/Astoria_Regional_Airport
+393,SGAS,ASU,Aeropuerto Internacional Silvio Pettirossi,large_airport,48045,138,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-25.240156,-57.519227,292,https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport
+394,HKAM,ASV,Amboseli Airport,medium_airport,48046,88,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-2.645050049,37.25310135,3755,https://en.wikipedia.org/wiki/Amboseli_Airport
+395,HESN,ASW,Aswan International Airport,medium_airport,2912,51,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,23.968137,32.824445,650,https://en.wikipedia.org/wiki/Aswan_International_Airport
+396,KASX,ASX,John F Kennedy Memorial Airport,small_airport,2830,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.54850006,-90.91899872,827,https://en.wikipedia.org/wiki/John_F._Kennedy_Memorial_Airport
+397,KASY,ASY,Ashley Municipal Airport,small_airport,48047,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.02389908,-99.3526001,2032,https://en.wikipedia.org/wiki/Ashley_Municipal_Airport
+399,SPHZ,ATA,Comandante FAP German Arias Graziani Airport,medium_airport,2137,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.347439766,-77.5983963,9097,https://en.wikipedia.org/wiki/Comandante_FAP_Germ%C3%A1n_Arias_Graziani_Airport
+400,HSAT,ATB,Atbara Airport,small_airport,2939,167,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,17.71034431,34.05701828,1181,https://en.wikipedia.org/wiki/Atbara_Airport
+401,MYCA,ATC,Arthur's Town Airport,medium_airport,48048,12,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.6294,-75.673797,18,https://en.wikipedia.org/wiki/Arthur's_Town_Airport
+402,AGAT,ATD,Uru Harbour Airport,small_airport,48049,161,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.87333,161.011002,,https://en.wikipedia.org/wiki/Uru_Harbour_Airport
+403,K80F,ATE,Antlers Municipal Airport,small_airport,48050,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.19260025,-95.64990234,575,https://en.wikipedia.org/wiki/Antlers_Municipal_Airport
+404,SEAM,ATF,Chachoán Regional Airport,medium_airport,1494,50,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.21207,-78.5746,8502,https://en.wikipedia.org/wiki/Chachoan_Airport
+405,OPMS,ATG,Minhas Air Base,medium_airport,48051,133,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.86909866,72.40090179,1023,https://en.wikipedia.org/wiki/Minhas_Airbase
+406,LGAV,ATH,Athens Eleftherios Venizelos International Airport,large_airport,48052,66,3,http://www.aia.gr,2024-06-27 0:00:00,2024-06-27 0:00:00,37.936401,23.9445,308,https://en.wikipedia.org/wiki/Athens_International_Airport
+407,SUAG,ATI,Artigas International Airport,small_airport,2687,189,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-30.4007,-56.5079,410,https://en.wikipedia.org/wiki/Artigas_Airport
+408,FMME,ATJ,Antsirabe Airport,small_airport,2228,104,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.839221,47.063713,4997,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Antsirabe
+409,PATQ,ATK,Atqasuk Edward Burnell Sr Memorial Airport,medium_airport,48053,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,70.46704,-157.436013,96,https://en.wikipedia.org/wiki/Atqasuk_Edward_Burnell_Sr._Memorial_Airport
+410,KATL,ATL,Hartsfield Jackson Atlanta International Airport,large_airport,2977,188,4,http://www.atlanta-airport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,33.6367,-84.428101,1026,https://en.wikipedia.org/wiki/Hartsfield–Jackson_Atlanta_International_Airport
+411,SBHT,ATM,Altamira Interstate Airport,medium_airport,1300,24,5,https://www4.infraero.gov.br/aeroportos/aeroporto-de-altamira-para/,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.253144,-52.253938,368,https://en.wikipedia.org/wiki/Altamira_Airport
+412,ATN,ATN,Namatanai Airport,small_airport,48054,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.6695,152.438,150,https://en.wikipedia.org/wiki/Namatanai_Airport
+413,KUNI,ATO,Ohio University Airport,small_airport,999,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.211839,-82.22949,766,https://en.wikipedia.org/wiki/Gordon_K._Bush_Airport
+414,ATP,ATP,Aitape Airport,small_airport,48055,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.143611111,142.3468056,10,https://en.wikipedia.org/wiki/Aitape_Airport
+415,VIAR,ATQ,Sri Guru Ram Dass Jee International Airport,medium_airport,1744,76,1,http://www.aai.aero/allAirports/amritsar_generalinfo.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,31.7096,74.797302,756,https://en.wikipedia.org/wiki/Sri_Guru_Ram_Dass_Jee_International_Airport
+416,GQPA,ATR,Atar International Airport,medium_airport,2932,111,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,20.5067997,-13.04319954,734,https://en.wikipedia.org/wiki/Atar_International_Airport
+417,KATS,ATS,Artesia Municipal Airport,small_airport,2684,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.85250092,-104.4680023,3541,https://en.wikipedia.org/wiki/Artesia_Municipal_Airport
+418,4A2,ATT,Atmautluak Airport,small_airport,48056,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,60.866699,-162.272996,17,https://en.wikipedia.org/wiki/Atmautluak_Airport
+419,FTTI,ATV,Ati Airport,small_airport,2971,34,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,13.239778,18.315893,1089,https://en.wikipedia.org/wiki/Ati_Airport
+420,KATW,ATW,Appleton International Airport,medium_airport,2311,188,4,http://atwairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.258099,-88.519096,918,https://en.wikipedia.org/wiki/Outagamie_County_Regional_Airport
+421,KZ-ATX,ATX,Atbasar Airport,small_airport,2940,87,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,51.852306,68.366892,1010,https://en.wikipedia.org/wiki/Atbasar_Airport
+422,KATY,ATY,Watertown Regional Airport,medium_airport,45858,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.91400146,-97.15470123,1749,https://en.wikipedia.org/wiki/Watertown_Regional_Airport
+423,HEAT,ATZ,Asyut International Airport,medium_airport,2914,51,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.050818,31.016309,748,https://en.wikipedia.org/wiki/Assiut_Airport
+424,TNCA,AUA,Queen Beatrix International Airport,large_airport,30698,204,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,12.5014,-70.015198,60,https://en.wikipedia.org/wiki/Queen_Beatrix_International_Airport
+425,SKUC,AUC,Santiago Perez Airport,medium_airport,2445,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.06888,-70.7369,420,https://en.wikipedia.org/wiki/Santiago_P%C3%A9rez_Airport
+427,EG-AUE,AUE,Abu Rudeis Airport,small_airport,48057,51,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.899694,33.202057,43,https://en.wikipedia.org/wiki/Abu_Rudeis_Airport
+428,LFLA,AUF,Auxerre-Branches Airport,medium_airport,48058,60,3,https://www.auxerre.aeroport.fr/,2024-06-27 0:00:00,2024-06-27 0:00:00,47.850201,3.49711,523,https://en.wikipedia.org/wiki/Auxerre_%E2%80%93_Branches_Aerodrome
+429,KAUG,AUG,Augusta State Airport,medium_airport,3052,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.3205986,-69.79730225,352,https://en.wikipedia.org/wiki/Augusta_State_Airport
+430,OMAA,AUH,Abu Dhabi International Airport,large_airport,148,186,1,http://www.abudhabiairport.ae/,2024-06-27 0:00:00,2024-06-27 0:00:00,24.443764,54.651718,88,https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport
+431,AUI,AUI,Aua Island Airport,small_airport,48059,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.460555556,143.0647222,4,
+432,AUJ,AUJ,Ambunti Airport,small_airport,48060,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.215666667,142.8231667,50,
+433,PAUK,AUK,Alakanuk Airport,small_airport,48061,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,62.682653,-164.722481,10,https://en.wikipedia.org/wiki/Alakanuk_Airport
+434,MH-AUL,AUL,Aur Island Airport,small_airport,48062,110,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.14528,171.173004,,https://en.wikipedia.org/wiki/Aur_Airport
+435,KAUM,AUM,Austin Municipal Airport,small_airport,3095,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.66500092,-92.93340302,1234,https://en.wikipedia.org/wiki/Austin_Municipal_Airport
+436,KAUN,AUN,Auburn Municipal Airport,small_airport,3029,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.95479965,-121.0820007,1539,https://en.wikipedia.org/wiki/Auburn_Municipal_Airport
+437,KAUO,AUO,Auburn University Regional Airport,small_airport,3029,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.615101,-85.433998,777,https://en.wikipedia.org/wiki/Auburn-Opelika_Robert_G._Pitts_Airport
+439,NTMN,AUQ,Hiva Oa-Atuona Airport,medium_airport,48063,198,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-9.768790245,-139.0110016,1481,https://en.wikipedia.org/wiki/Atuona_Airport
+440,LFLW,AUR,Aurillac Airport,medium_airport,3083,60,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.89139938,2.421940088,2096,https://en.wikipedia.org/wiki/Aurillac_Airport
+441,KAUS,AUS,Austin Bergstrom International Airport,large_airport,3095,188,4,http://www.ci.austin.tx.us/austinairport/,2024-06-27 0:00:00,2024-06-27 0:00:00,30.197535,-97.662015,542,https://en.wikipedia.org/wiki/Austin-Bergstrom_International_Airport
+442,WPAT,AUT,Atauro Airport,small_airport,48064,176,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.243133,125.606378,29,https://en.wikipedia.org/wiki/Atauro_Island#Geography
+443,YAUR,AUU,Aurukun Airport,small_airport,48065,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.354019,141.720028,31,https://en.wikipedia.org/wiki/Aurukun_Airport
+444,AUV,AUV,Aumo Airport,small_airport,48066,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-5.731111111,148.4452778,450,
+445,KAUW,AUW,Wausau Downtown Airport,medium_airport,45880,188,4,http://www.ci.wausau.wi.us/Departments/Airport/GeneralInformation.aspx,2024-06-27 0:00:00,2024-06-27 0:00:00,44.92620087,-89.62660217,1201,https://en.wikipedia.org/wiki/Wausau_Downtown_Airport
+446,SWGN,AUX,Araguaína Airport,medium_airport,48067,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.22787,-48.240501,771,https://en.wikipedia.org/wiki/Aragua%C3%ADna_Airport
+447,NVVA,AUY,Aneityum Airport,small_airport,48068,191,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-20.24920082,169.7709961,7,https://en.wikipedia.org/wiki/Anatom_Airport
+448,KARR,AUZ,Aurora Municipal Airport,small_airport,48069,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.77190018,-88.47570038,712,https://en.wikipedia.org/wiki/Aurora_Municipal_Airport_(Illinois)
+449,ZUAS,AVA,Anshun Huangguoshu Airport,medium_airport,48070,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.260556,105.873333,4812,https://en.wikipedia.org/wiki/Anshun_Huangguoshu_Airport
+450,LIPA,AVB,Aviano Air Base,medium_airport,48071,82,3,http://www.aviano.af.mil/,2024-06-27 0:00:00,2024-06-27 0:00:00,46.031898,12.596503,410,https://en.wikipedia.org/wiki/Aviano_Air_Base
+452,MUCA,AVI,Maximo Gomez Airport,medium_airport,9601,43,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,22.02709961,-78.78959656,335,https://en.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez_Airport
+453,ZMAH,AVK,Arvaikheer Airport,medium_airport,48072,117,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,46.25030136,102.802002,5932,https://en.wikipedia.org/wiki/Arvaikheer_Airport
+454,KAVL,AVL,Asheville Regional Airport,medium_airport,2818,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.436199,-82.541801,2165,https://en.wikipedia.org/wiki/Asheville_Regional_Airport
+455,LFMV,AVN,Avignon-Caumont Airport,medium_airport,48073,60,3,https://avignon.aero/,2024-06-27 0:00:00,2024-06-27 0:00:00,43.907299,4.90183,124,https://en.wikipedia.org/wiki/Avignon_-_Caumont_Airport
+456,KAVO,AVO,Avon Park Executive Airport,small_airport,3151,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.59119987,-81.52780151,160,https://en.wikipedia.org/wiki/Avon_Park_Executive_Airport
+457,KAVP,AVP,Wilkes Barre Scranton International Airport,medium_airport,48074,188,4,http://www.flyavp.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,41.33850098,-75.7233963,962,https://en.wikipedia.org/wiki/Wilkes-Barre/Scranton_International_Airport
+458,LPAR,AVR,Alverca Air Base,medium_airport,45064,142,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.883301,-9.0301,11,https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca
+460,YMAV,AVV,Avalon Airport,medium_airport,23073,9,6,https://www.avalonairport.com.au/,2024-06-27 0:00:00,2024-06-27 0:00:00,-38.039398,144.468994,35,https://en.wikipedia.org/wiki/Avalon_Airport
+461,KAVQ,AVW,Marana Regional Airport,small_airport,25692,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.409065,-111.216199,2031,https://en.wikipedia.org/wiki/Marana_Regional_Airport
+462,KAVX,AVX,Catalina Airport,small_airport,48075,188,4,http://www.catalinaconservancy.org/index.php?s=visit&p=pilot_information,2024-06-27 0:00:00,2024-06-27 0:00:00,33.4049,-118.416,1602,https://en.wikipedia.org/wiki/Catalina_Airport
+463,HALA,AWA,Hawassa International Airport,medium_airport,48076,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.099869,38.396187,5450,https://en.wikipedia.org/wiki/Awasa_Airport
+464,PG-AWB,AWB,Awaba Airport,small_airport,48077,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.006110191,142.7483521,32,https://en.wikipedia.org/wiki/Awaba_Airport
+465,NVVB,AWD,Aniwa Airport,small_airport,48078,191,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.2346,169.6009,69,https://en.wikipedia.org/wiki/Aniwa_Airport
+466,AWE,AWE,Alowe Airport,small_airport,48079,61,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.545,9.444,600,
+467,PWAK,AWK,Wake Island Airfield,medium_airport,48080,188,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.282437,166.636637,14,https://en.wikipedia.org/wiki/Wake_Island_Airfield
+468,KAWM,AWM,West Memphis Municipal Airport,small_airport,46086,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.13510132,-90.23439789,212,https://en.wikipedia.org/wiki/West_Memphis_Municipal_Airport
+469,YADS,AWN,Alton Downs Airport,small_airport,1349,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-26.488959,139.259906,,https://en.wikipedia.org/wiki/Alton_Downs_Airport
+471,OIAW,AWZ,Lieutenant General Qasem Soleimani International Airport,medium_airport,525,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.3374,48.762001,66,https://en.wikipedia.org/wiki/Ahvaz_International_Airport
+472,TQPF,AXA,Clayton J Lloyd International Airport,medium_airport,42545,205,4,http://www.news.ai/ref/airport.html,2024-06-27 0:00:00,2024-06-27 0:00:00,18.204773,-63.05383,127,https://en.wikipedia.org/wiki/Clayton_J._Lloyd_International_Airport
+473,89NY,AXB,Maxson Airfield,small_airport,48081,188,4,https://web.archive.org/web/20161108041600/http://www.maxsonairfield.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.312002,-75.90034,340,https://en.wikipedia.org/wiki/Maxson_Airfield
+475,LGAL,AXD,Alexandroupoli Democritus Airport,medium_airport,48082,66,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.8559,25.956301,24,https://en.wikipedia.org/wiki/Alexandroupoli_Airport
+476,SSXX,AXE,Xanxerê Airport,small_airport,48083,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-26.875557,-52.373055,2986,https://pt.wikipedia.org/wiki/Aeroporto_de_Xanxer%C3%AA
+477,AXF,AXF,Alxa Left Banner Bayanhot Airport,medium_airport,48084,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.74831,105.58858,4560,https://en.wikipedia.org/wiki/Alxa_Left_Banner_Bayanhot_Airport
+478,KAXA,AXG,Algona Municipal Airport,small_airport,48085,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.078104,-94.271836,1219,https://en.wikipedia.org/wiki/Algona_Municipal_Airport
+479,RJDA,AXJ,Amakusa Airport,small_airport,1402,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.482498,130.158997,340,https://en.wikipedia.org/wiki/Amakusa_Airfield
+480,OYAT,AXK,Ataq Airport,medium_airport,2931,195,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.5513,46.826199,3735,https://en.wikipedia.org/wiki/Ataq_Airport
+482,SKAR,AXM,El Eden Airport,medium_airport,2602,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.45278,-75.7664,3990,https://en.wikipedia.org/wiki/El_Ed%C3%A9n_Airport
+483,KAXN,AXN,Chandler Field,medium_airport,1118,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.866299,-95.394699,1425,https://en.wikipedia.org/wiki/Alexandria_Municipal_Airport
+484,AXO,AXO,Pantar Kabir Airport,small_airport,48086,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.244832,124.219108,18,
+485,MYAP,AXP,Spring Point Airport,medium_airport,48087,12,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,22.441799,-73.970901,11,https://en.wikipedia.org/wiki/Spring_Point_Airport
+487,KAXS,AXS,Altus Quartz Mountain Regional Airport,small_airport,1365,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.697952,-99.3385,1433,https://en.wikipedia.org/wiki/Altus/Quartz_Mountain_Regional_Airport
+488,RJSK,AXT,Akita Airport,medium_airport,713,85,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.615601,140.218994,313,https://en.wikipedia.org/wiki/Akita_Airport
+489,HAAX,AXU,Axum Airport,medium_airport,48088,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.1468,38.7728,6959,https://en.wikipedia.org/wiki/Axum_Airport
+490,KAXV,AXV,Neil Armstrong Airport,small_airport,45757,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.49340057,-84.29889679,913,https://en.wikipedia.org/wiki/Neil_Armstrong_Airport
+491,KAXX,AXX,Angel Fire Airport,small_airport,48089,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.422001,-105.290001,8380,https://en.wikipedia.org/wiki/Angel_Fire_Airport
+492,SK-198,AYA,Ayapel Airport,small_airport,3194,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.3,-75.15,120,https://en.wikipedia.org/wiki/Ayapel_Airport
+493,SK-144,AYC,Ayacucho Airport,small_airport,3184,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.6,-73.616667,415,
+494,AU-AYD,AYD,Alroy Downs Airport,small_airport,48090,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.2908,136.078995,711,
+495,SKYA,AYG,Yaguara Airport,small_airport,48091,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,1.54417,-73.9333,812,
+496,SK-047,AYI,Yari Airport,small_airport,48092,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.383333,-72.266667,569,
+497,IN-0025,AYJ,Ayodhya Airport,medium_airport,13443,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.751283,82.155295,335,https://en.wikipedia.org/wiki/Ayodhya_Airport
+498,UAUR,AYK,Arkalyk North Airport,small_airport,48093,87,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,50.3185997,66.95279694,1266,https://en.wikipedia.org/wiki/Arkalyk_Airport
+500,AYM,AYM,Yas Island Seaplane Base,seaplane_base,148,186,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.467,54.6103,0,
+501,ZHAY,AYN,Anyang Yindu Airport,small_airport,2243,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.1339,114.344002,,https://en.wikipedia.org/wiki/Anyang_Airport
+502,SGAY,AYO,Aeropuerto Nacional de Juan De Ayolas,medium_airport,3216,138,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-27.378379,-56.856791,223,https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport
+503,SPHO,AYP,Air Force Colonel Alfredo Mendivil Duarte Airport,medium_airport,3184,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.1548,-74.204399,8917,https://en.wikipedia.org/wiki/Coronel_FAP_Alfredo_Mendivil_Duarte_Airport
+504,YAYE,AYQ,Ayers Rock Connellan Airport,medium_airport,47253,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-25.185913,130.97703,1626,https://en.wikipedia.org/wiki/Ayers_Rock_Airport
+505,YAYR,AYR,Ayr Airport,small_airport,3221,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.595832,147.324495,41,
+506,KAYS,AYS,Waycross Ware County Airport,small_airport,45890,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.24909973,-82.39550018,142,https://en.wikipedia.org/wiki/Waycross-Ware_County_Airport
+507,LTAI,AYT,Antalya International Airport,large_airport,2142,181,1,http://www.antalya.dhmi.gov.tr/havaalanlari/default.aspx?hv=4,2024-06-27 0:00:00,2024-06-27 0:00:00,36.898701,30.800501,177,https://en.wikipedia.org/wiki/Antalya_Airport
+508,AYU,AYU,Aiyura Airport,small_airport,48094,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-6.338055556,145.9041667,5355,https://en.wikipedia.org/wiki/Aiyura_Airport
+509,ID-AYW,AYW,Ayawasi Airport,small_airport,48095,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.159779,132.464082,1560,https://en.wikipedia.org/wiki/Ayawasi_Airport
+510,SPAY,AYX,Teniente General Gerardo Pérez Pinedo Airport,medium_airport,48096,139,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-10.7291,-73.766502,751,https://en.wikipedia.org/wiki/Tnte._Gral._Gerardo_P%C3%A9rez_Pinedo_Airport
+511,AYY,AYY,Arugam Bay SPB,seaplane_base,48097,166,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.86,81.82388889,,
+512,KIWA,AZA,Phoenix–Mesa Gateway Airport,medium_airport,26715,188,4,https://www.gatewayairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,33.3078,-111.654999,1382,https://en.wikipedia.org/wiki/Phoenix%E2%80%93Mesa_Gateway_Airport
+514,OIYY,AZD,Shahid Sadooghi Airport,medium_airport,46987,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.9048996,54.2765007,4054,https://en.wikipedia.org/wiki/Shahid_Sadooghi_Airport
+515,MX-AZG,AZG,Apatzingán - Pablo L. Sidar Airport,small_airport,48098,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.093399,-102.393997,1033,https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar
+516,VEAH,AZH,Azamgarh Airport,small_airport,48099,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.153333,83.118333,250,https://en.wikipedia.org/wiki/Azamgarh_Airport
+517,OMAD,AZI,Al Bateen Executive Airport,medium_airport,148,186,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.428301,54.458099,16,https://en.wikipedia.org/wiki/Al_Bateen_Executive_Airport
+518,AZJ,AZJ,Zhenjiang Dalu Airport,small_airport,47625,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.23649,119.718683,16,
+519,SWTU,AZL,Fazenda Tucunaré Airport,small_airport,48100,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.465528,-58.866935,1814,
+520,UTKA,AZN,Andizhan Airport,medium_airport,48101,190,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.727699,72.293999,1515,https://en.wikipedia.org/wiki/Andizhan_Airport
+521,KAZO,AZO,Kalamazoo Battle Creek International Airport,medium_airport,19637,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.23490143,-85.55210114,874,https://en.wikipedia.org/wiki/Kalamazoo-Battle_Creek_International_Airport
+522,MMJC,AZP,Aeropuerto Nacional Jorge Jiménez Cantú,small_airport,48102,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.574155,-99.291183,8120,https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Jorge_Jiménez_Cantú
+523,DAUA,AZR,Touat Cheikh Sidi Mohamed Belkebir Airport,medium_airport,338,3,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.837601,-0.186414,919,https://en.wikipedia.org/wiki/Touat_Cheikh_Sidi_Mohamed_Belkebir_Airport
+524,MDCY,AZS,Samaná El Catey International Airport,medium_airport,36561,49,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.269259,-69.737405,30,https://en.wikipedia.org/wiki/Saman%C3%A1_El_Catey_International_Airport
+525,SK-392,AZT,Zapatoca Airport,small_airport,47419,37,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.767724,-73.284444,6377,
+526,FNAM,AZZ,Ambriz Airport,small_airport,1636,5,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.86222,13.1161,144,https://en.wikipedia.org/wiki/Ambriz_Airport
+527,PG-BAA,BAA,Bialla Airport,small_airport,48103,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-5.330560207,151.0079956,51,
+528,KBAB,BAB,Beale Air Force Base,medium_airport,26008,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.136101,-121.436996,113,https://en.wikipedia.org/wiki/Beale_Air_Force_Base
+529,SK-272,BAC,Barranca De Upia Airport,small_airport,48104,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.583333,-72.966667,670,
+530,KBAD,BAD,Barksdale Air Force Base,medium_airport,6446,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.501801,-93.662697,166,https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base
+531,LFMR,BAE,Barcelonnette - Saint-Pons Airfield,small_airport,48105,60,3,https://www.aerodromebarcelonnette.fr/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.387198,6.609186,3714,https://en.wikipedia.org/wiki/Barcelonnette_%E2%80%93_Saint-Pons_Airport
+532,KBAF,BAF,Westfield-Barnes Regional Airport,medium_airport,46138,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.157799,-72.715599,271,https://en.wikipedia.org/wiki/Westfield-Barnes_Regional_Airport
+533,RPUB,BAG,Loakan Airport,medium_airport,3572,140,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.37509918,120.6200027,4251,https://en.wikipedia.org/wiki/Loakan_Airport
+534,OBBI,BAH,Bahrain International Airport,large_airport,25299,13,1,https://www.bahrainairport.bh/,2024-06-27 0:00:00,2024-06-27 0:00:00,26.267295,50.63764,6,https://en.wikipedia.org/wiki/Bahrain_International_Airport
+535,MRBA,BAI,Buenos Aires Airport,medium_airport,33966,41,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.163949,-83.330171,1214,https://en.wikipedia.org/wiki/Buenos_Aires_Airport_(Costa_Rica)
+536,BAJ,BAJ,Bali Airport,small_airport,48106,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.883333333,149.1333333,90,
+537,LTCJ,BAL,Batman Airport,medium_airport,4647,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.92900085,41.11660004,1822,https://en.wikipedia.org/wiki/Batman_Airport
+538,KBAM,BAM,Battle Mountain Airport,small_airport,48107,188,4,http://www.battlemountainairport.com/default.htm,2024-06-27 0:00:00,2024-06-27 0:00:00,40.59899902,-116.8740005,4532,https://en.wikipedia.org/wiki/Battle_Mountain_Airport
+539,FZVR,BAN,Basongo Airport,small_airport,48108,39,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-4.315802,20.414891,1640,https://en.wikipedia.org/wiki/Basongo_Airport
+540,VTED,BAO,Udorn Air Base,small_airport,48109,175,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,17.38299942,102.8000031,,
+541,SKBQ,BAQ,Ernesto Cortissoz International Airport,medium_airport,4470,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.8896,-74.7808,98,https://en.wikipedia.org/wiki/Ernesto_Cortissoz_International_Airport
+542,ZJQH,BAR,Qionghai Bo'ao Airport,medium_airport,48110,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.140951,110.452766,30,https://en.wikipedia.org/wiki/Qionghai_Bo%27ao_Airport
+543,AGGE,BAS,Ballalae Airport,small_airport,48111,161,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-6.990745,155.886656,5,https://en.wikipedia.org/wiki/Balalae_Airport
+544,SBBT,BAT,Chafei Amsei Airport,medium_airport,4479,24,5,https://aeroportospaulistas.com.br/barretos/,2024-06-27 0:00:00,2024-06-27 0:00:00,-20.584631,-48.594125,1903,https://en.wikipedia.org/wiki/Barretos_Airport
+545,ZBOW,BAV,Baotou Donghe Airport,medium_airport,4231,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.560001,109.997002,3321,https://en.wikipedia.org/wiki/Baotou_Airport
+546,UNBB,BAX,Barnaul Airport,medium_airport,4416,145,1,http://airaltay.ru/,2024-06-27 0:00:00,2024-06-27 0:00:00,53.36380005,83.53849792,837,https://en.wikipedia.org/wiki/Barnaul_Airport
+547,LRBM,BAY,Maramureș International Airport,medium_airport,3608,144,3,https://aimm.eu/,2024-06-27 0:00:00,2024-06-27 0:00:00,47.660598,23.467252,605,https://en.wikipedia.org/wiki/Maramureș_Airport
+548,SWBC,BAZ,Barcelos Airport,small_airport,4319,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.981191,-62.918603,112,https://en.wikipedia.org/wiki/Barcelos_Airport
+549,SCBA,BBA,Balmaceda Airport,medium_airport,48112,35,5,https://aeropuertodebalmaceda.cl/,2024-06-27 0:00:00,2024-06-27 0:00:00,-45.915968,-71.689499,1722,https://en.wikipedia.org/wiki/Balmaceda_Airport
+550,KBBB,BBB,Benson Municipal Airport,small_airport,48113,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.33190155,-95.65059662,1039,http://www.iata.org/ps/publications/pages/code-search.aspx
+551,KBYY,BBC,Bay City Regional Airport,small_airport,4705,188,4,http://www.flybaycity.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,28.973301,-95.863503,45,https://en.wikipedia.org/wiki/Bay_City_Municipal_Airport
+552,KBBD,BBD,Curtis Field,medium_airport,48114,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.17930031,-99.32389832,1827,https://en.wikipedia.org/wiki/Curtis_Field
+553,NGTU,BBG,Butaritari Airport,small_airport,48115,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,3.08583,172.811005,5,https://en.wikipedia.org/wiki/Butaritari_Atoll_Airport
+554,EDBH,BBH,Barth Airport,small_airport,4505,64,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,54.338253,12.710515,23,https://en.wikipedia.org/wiki/Stralsund%E2%80%93Barth_Airport
+555,VEBS,BBI,Biju Patnaik Airport,medium_airport,48116,76,1,http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,20.24440002,85.81780243,138,https://en.wikipedia.org/wiki/Biju_Patnaik_Airport
+556,EDRB,BBJ,Bitburg Airport,small_airport,5941,64,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,49.945278,6.565,1220,https://en.wikipedia.org/wiki/Bitburg_Airport
+557,FBKE,BBK,Kasane Airport,medium_airport,20265,23,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-17.832899,25.162399,3289,https://en.wikipedia.org/wiki/Kasane_Airport
+559,VDBG,BBM,Battambang Airport,medium_airport,4658,30,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,13.0956,103.223999,59,https://en.wikipedia.org/wiki/Battambang_Airport
+560,WBGZ,BBN,Bario Airport,medium_airport,48117,106,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,3.734648,115.478548,3350,https://en.wikipedia.org/wiki/Bario_Airport
+561,HCMI,BBO,Berbera Airport,medium_airport,5268,162,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.385035,44.936723,30,https://en.wikipedia.org/wiki/Berbera_Airport
+562,EGHJ,BBP,Bembridge Airport,small_airport,48118,187,3,http://www.eghj.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,50.67810059,-1.109439969,53,https://en.wikipedia.org/wiki/Bembridge_Airport
+563,TAPH,BBQ,Codrington Airport,medium_airport,48119,6,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,17.635799,-61.828602,15,https://en.wikipedia.org/wiki/Codrington_Airport
+564,TFFB,BBR,Basse-Terre Baillif Airport,small_airport,4589,206,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.013648,-61.742928,59,https://en.wikipedia.org/wiki/Baillif_Airport
+565,EGLK,BBS,Blackbushe Airport,medium_airport,48120,187,3,http://www.blackbusheairport.co.uk/,2024-06-27 0:00:00,2024-06-27 0:00:00,51.32389832,-0.847500026,325,https://en.wikipedia.org/wiki/Blackbushe_Airport
+566,FEFT,BBT,Berbérati Airport,medium_airport,48121,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.221580029,15.78639984,1929,https://en.wikipedia.org/wiki/Berb%C3%A9rati_Airport
+567,LRBS,BBU,Bucharest Băneasa Aurel Vlaicu International Airport,medium_airport,6964,144,3,http://www.baneasa-airport.ro/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.503201,26.1021,297,https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport
+568,DIGN,BBV,Nero-Mer Airport,small_airport,48122,83,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.643413067,-6.923961639,20,https://en.wikipedia.org/wiki/Nero-Mer_Airport
+569,KBBW,BBW,Broken Bow Municipal Airport,small_airport,48123,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.43650055,-99.64219666,2547,https://en.wikipedia.org/wiki/Broken_Bow_Municipal_Airport
+570,KLOM,BBX,Wings Field,small_airport,32554,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.13750076,-75.26509857,302,https://en.wikipedia.org/wiki/Wings_Field
+571,FEFM,BBY,Bambari Airport,small_airport,3867,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.847012,20.64992,1549,https://en.wikipedia.org/wiki/Bambari_Airport
+572,FLZB,BBZ,Zambezi Airport,small_airport,47387,196,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.535996,23.10559,3538,https://en.wikipedia.org/wiki/Zambezi_Airport
+573,MUBA,BCA,Gustavo Rizo Airport,medium_airport,4249,43,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,20.36529922,-74.5062027,26,https://en.wikipedia.org/wiki/Gustavo_Rizo_Airport
+574,KBCB,BCB,Virginia Tech Montgomery Executive Airport,small_airport,5977,188,4,http://www.vtbcb.com/index.php,2024-06-27 0:00:00,2024-06-27 0:00:00,37.20759964,-80.40779877,2132,https://en.wikipedia.org/wiki/Virginia_Tech_Montgomery_Executive_Airport
+575,Z48,BCC,Bear Creek 3 Airport,small_airport,48124,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,63.57331604,-156.1494541,740,https://en.wikipedia.org/wiki/Bear_Creek_3_Airport
+576,RPVB,BCD,Bacolod-Silay Airport,medium_airport,48125,140,1,http://www.bacolod-silayairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,10.7764,123.014999,82,https://en.wikipedia.org/wiki/Bacolod%E2%80%93Silay_Airport
+577,KBCE,BCE,Bryce Canyon Airport,medium_airport,48126,188,4,http://www.brycecanyonairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,37.70640183,-112.1449966,7590,https://en.wikipedia.org/wiki/Bryce_Canyon_Airport
+578,FEGU,BCF,Bouca Airport,small_airport,6495,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.517000198,18.2670002,1532,https://en.wikipedia.org/wiki/Bouca_Airport
+579,GY-BCG,BCG,Bemichi Airport,small_airport,48127,71,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.640212,-58.961786,94,
+580,WPEC,BCH,Cakung Airport,medium_airport,4677,176,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.486479,126.399981,1771,https://en.wikipedia.org/wiki/Cakung_Airport
+581,YBAR,BCI,Barcaldine Airport,medium_airport,4313,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.566268,145.302086,878,https://en.wikipedia.org/wiki/Barcaldine_Airport
+583,MRBC,BCL,Barra del Colorado Airport,medium_airport,48128,41,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.7687,-83.585602,3,https://en.wikipedia.org/wiki/Barra_del_Colorado_Airport
+584,LRBC,BCM,Bacău Airport,medium_airport,48129,144,3,http://www.bacauairport.ro/,2024-06-27 0:00:00,2024-06-27 0:00:00,46.52190018,26.9102993,607,https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport
+585,LEBL,BCN,Josep Tarradellas Barcelona-El Prat Airport,large_airport,4316,165,3,https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html,2024-06-27 0:00:00,2024-06-27 0:00:00,41.2971,2.07846,12,https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport
+586,HABC,BCO,Baco Airport,small_airport,3361,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.783333,36.55,4300,https://en.wikipedia.org/wiki/Baco_Airport
+587,BCP,BCP,Bambu Airport,small_airport,48130,137,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-5.863611111,146.4925,6790,
+588,LY-BCQ,BCQ,Brak Airport,medium_airport,48131,100,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.653,14.272,1056,https://en.wikipedia.org/wiki/Brak_Airport
+589,SWNK,BCR,Novo Campo Airport,small_airport,6096,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-8.83456,-67.312401,394,
+590,65LA,BCS,Southern Seaplane Airport,small_airport,5050,188,4,http://southernseaplane.com/cms/?page_id=460,2024-06-27 0:00:00,2024-06-27 0:00:00,29.866078,-90.021608,,https://en.wikipedia.org/wiki/Southern_Seaplane_Airport
+591,KBCT,BCT,Boca Raton Airport,medium_airport,6097,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.3785,-80.107697,13,https://en.wikipedia.org/wiki/Boca_Raton_Airport
+592,DNBC,BCU,Sir Abubakar Tafawa Balewa International Airport,medium_airport,4678,129,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,10.482833,9.744,1965,https://en.wikipedia.org/wiki/Bauchi_State_Airport
+593,BZ-BCV,BCV,Hector Silva Airstrip,small_airport,5087,18,4,http://www.flightstats.com/go/Airport/airportDetails.do?airportCode=BCV,2024-06-27 0:00:00,2024-06-27 0:00:00,17.269603,-88.776496,150,https://en.wikipedia.org/wiki/Hector_Silva_Airstrip
+594,BCW,BCW,Benguera Island Airport,medium_airport,48132,120,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-21.8533,35.438301,,https://en.wikipedia.org/wiki/Benguera_Island_Airport
+595,UWUB,BCX,Beloretsk Airport,small_airport,5106,145,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,53.938389,58.340113,1827,
+596,BCZ,BCZ,Milyakburra Airport,small_airport,48133,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-13.78083333,136.2016667,85,https://en.wikipedia.org/wiki/Bickerton_Island
+597,TXKF,BDA,L.F. Wade International Airport,medium_airport,16316,207,4,http://www.bermudaairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,32.363998,-64.678703,12,https://en.wikipedia.org/wiki/Bermuda_International_Airport
+598,YBUD,BDB,Bundaberg Airport,medium_airport,7137,9,6,http://bundaberg.qld.gov.au/services/airport,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.905039,152.322612,107,https://en.wikipedia.org/wiki/Bundaberg_Airport
+599,SNBC,BDC,Barra do Corda Airport,small_airport,4453,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-5.5025,-45.215833,526,https://pt.wikipedia.org/wiki/Aeroporto_de_Barra_do_Corda
+600,YBAU,BDD,Badu Island Airport,small_airport,48134,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-10.14955,142.173665,14,https://en.wikipedia.org/wiki/Badu_Island_Airport
+601,KBDE,BDE,Baudette International Airport,medium_airport,48135,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,48.72840118,-94.61219788,1086,https://en.wikipedia.org/wiki/Baudette_International_Airport
+602,3IS8,BDF,Rinkenberger Restricted Landing Area,small_airport,6627,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.23089981,-89.61569977,808,
+603,KBDG,BDG,Blanding Municipal Airport,small_airport,48136,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.58330154,-109.4830017,5868,https://en.wikipedia.org/wiki/Blanding_Municipal_Airport
+604,OIBL,BDH,Bandar Lengeh International Airport,medium_airport,48137,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.532283,54.82484,67,https://en.wikipedia.org/wiki/Bandar_Lengeh_Airport
+605,FSSB,BDI,Bird Island Airport,small_airport,48138,156,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.72472,55.205299,6,https://en.wikipedia.org/wiki/Bird_Island_Airport
+606,WAOO,BDJ,Syamsudin Noor International Airport,medium_airport,48139,77,1,https://syamsudinnoor-airport.co.id/id,2024-06-27 0:00:00,2024-06-27 0:00:00,-3.44236,114.763,66,https://en.wikipedia.org/wiki/Syamsudin_Noor_Airport
+607,DIBU,BDK,Soko Airport,small_airport,6285,83,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,8.01722,-2.76194,1247,https://en.wikipedia.org/wiki/Soko_Airport
+608,KBDL,BDL,Bradley International Airport,large_airport,16541,188,4,http://www.bradleyairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,41.93851,-72.688066,173,https://en.wikipedia.org/wiki/Bradley_International_Airport
+609,LTBG,BDM,Bandırma Airport,medium_airport,48140,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.318001,27.977699,170,https://en.wikipedia.org/wiki/Band%C4%B1rma_Airport
+610,OPTH,BDN,Talhar Airport,small_airport,3468,133,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,24.84149933,68.83840179,28,
+611,WICC,BDO,Husein Sastranegara International Airport,medium_airport,4115,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-6.90063,107.575996,2436,https://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport
+612,VNCG,BDP,Bhadrapur Airport,small_airport,5491,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.57080078,88.07959747,300,https://en.wikipedia.org/wiki/Bhadrapur_Airport
+613,VABO,BDQ,Vadodara Airport,medium_airport,44382,76,1,http://aai.aero/allAirports/vadodara_generalinfo.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,22.336201,73.226303,129,https://en.wikipedia.org/wiki/Vadodara_Airport
+614,KBDR,BDR,Igor I Sikorsky Memorial Airport,medium_airport,6775,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.163502,-73.126198,9,https://en.wikipedia.org/wiki/Sikorsky_Memorial_Airport
+615,LIBR,BDS,Brindisi Airport,large_airport,6808,82,3,http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=29,2024-06-27 0:00:00,2024-06-27 0:00:00,40.6576,17.947001,47,https://en.wikipedia.org/wiki/Brindisi_Airport
+616,FZFD,BDT,Gbadolite Airport,medium_airport,14724,39,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.252745,20.975271,1509,https://en.wikipedia.org/wiki/Gbadolite_Airport
+617,ENDU,BDU,Bardufoss Airport,medium_airport,48141,131,3,https://avinor.no/en/airport/bardufoss-airport/,2024-06-27 0:00:00,2024-06-27 0:00:00,69.05580139,18.54039955,252,https://en.wikipedia.org/wiki/Bardufoss_Airport
+618,FZRB,BDV,Moba Airport,small_airport,27300,39,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-7.08488,29.737072,2953,https://en.wikipedia.org/wiki/Moba_Airport
+620,K00F,BDX,Broadus Airport,small_airport,48142,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.470462,-105.457145,3280,https://en.wikipedia.org/wiki/Broadus_Airport
+621,KS05,BDY,Bandon State Airport,small_airport,48143,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,43.08649826,-124.4079971,122,https://en.wikipedia.org/wiki/Bandon_State_Airport
+623,EGPL,BEB,Benbecula Airport,medium_airport,48144,187,3,http://www.hial.co.uk/benbecula-airport.html,2024-06-27 0:00:00,2024-06-27 0:00:00,57.48109818,-7.362780094,19,https://en.wikipedia.org/wiki/Benbecula_Airport
+624,KBEC,BEC,Beech Factory Airport,small_airport,46244,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.69449997,-97.21499634,1408,https://en.wikipedia.org/wiki/Beech_Factory_Airport
+625,KBED,BED,Laurence G Hanscom Field,medium_airport,4840,188,4,http://www.massport.com/hansc/,2024-06-27 0:00:00,2024-06-27 0:00:00,42.470001,-71.289001,133,https://en.wikipedia.org/wiki/Hanscom_Field
+626,YBGB,BEE,Beagle Bay Airport,small_airport,48145,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-17.0165,122.6464,124,
+627,MNBL,BEF,Bluefields Airport,medium_airport,48146,127,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.991,-83.774101,20,https://en.wikipedia.org/wiki/Bluefields_Airport
+628,LYBE,BEG,Belgrade Nikola Tesla Airport,large_airport,5020,155,3,http://www.beg.aero/,2024-06-27 0:00:00,2024-06-27 0:00:00,44.818401,20.309099,335,https://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport
+629,KBEH,BEH,Southwest Michigan Regional Airport,small_airport,5251,188,4,http://www.swmiairport.com/1201.html,2024-06-27 0:00:00,2024-06-27 0:00:00,42.12860107,-86.42849731,643,https://en.wikipedia.org/wiki/Southwest_Michigan_Regional_Airport
+630,HABE,BEI,Beica Airport,small_airport,48147,57,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,9.38639,34.5219,5410,https://en.wikipedia.org/wiki/Beica_Airport
+631,WALK,BEJ,Kalimarau Airport,medium_airport,48148,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,2.1555,117.431999,59,https://en.wikipedia.org/wiki/Kalimarau_Airport
+632,VIBY,BEK,Bareilly Air Force Station,medium_airport,4338,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.4221,79.450798,580,https://en.wikipedia.org/wiki/Trishul_Air-base
+633,SBBE,BEL,Val de Cans/Júlio Cezar Ribeiro International Airport,large_airport,48149,24,5,http://www.infraero.gov.br/index.php/br/aeroportos/para/aeroporto-internacional-de-belem.html,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.379279,-48.476207,54,https://en.wikipedia.org/wiki/Val_de_Cans_International_Airport
+634,GMMD,BEM,Beni Mellal Airport,small_airport,31028,119,2,http://ww.onda.ma,2024-06-27 0:00:00,2024-06-27 0:00:00,32.401895,-6.315905,1694,https://en.wikipedia.org/wiki/Beni_Mellal_Airport
+635,HLLB,BEN,Benina International Airport,medium_airport,48150,100,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.096802,20.269501,433,https://en.wikipedia.org/wiki/Benina_International_Airport
+636,YLMQ,BEO,Lake Macquarie Airport,small_airport,48151,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-33.065975,151.646283,5,https://en.wikipedia.org/wiki/Lake_Macquarie_Airport
+637,VOBI,BEP,Bellary Airport,medium_airport,5045,76,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.16279984,76.88279724,30,https://en.wikipedia.org/wiki/Bellary_Airport
+638,EGXH,BEQ,RAF Honington,medium_airport,48152,187,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,52.342602,0.772939,174,https://en.wikipedia.org/wiki/RAF_Honington
+639,EDDB,BER,Berlin Brandenburg Airport,large_airport,5329,64,3,https://ber.berlin-airport.de/,2024-06-27 0:00:00,2024-06-27 0:00:00,52.362247,13.500672,157,https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport
+640,LFRB,BES,Brest Bretagne Airport,medium_airport,48153,60,3,https://www.brest.aeroport.bzh,2024-06-27 0:00:00,2024-06-27 0:00:00,48.447899,-4.41854,325,https://en.wikipedia.org/wiki/Brest_Bretagne_Airport
+641,PABE,BET,Bethel Airport,medium_airport,5408,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,60.77980042,-161.8379974,126,https://en.wikipedia.org/wiki/Bethel_Airport
+642,YBIE,BEU,Bedourie Airport,medium_airport,4852,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-24.34609985,139.4600067,300,https://en.wikipedia.org/wiki/Bedourie_Airport
+643,LLBS,BEV,Beersheba (Teyman) Airport,small_airport,4869,81,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,31.28700066,34.72299957,656,https://en.wikipedia.org/wiki/Be'er_Sheva_(Teyman)_Airport
+644,FQBR,BEW,Beira Airport,medium_airport,4919,120,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-19.79640007,34.9076004,33,https://en.wikipedia.org/wiki/Beira_Airport
+645,EGUB,BEX,RAF Benson,medium_airport,48113,187,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,51.61640167,-1.095829964,226,https://en.wikipedia.org/wiki/RAF_Benson
+646,OLBA,BEY,Beirut Rafic Hariri International Airport,large_airport,4920,97,1,http://www.beirutairport.gov.lb/,2024-06-27 0:00:00,2024-06-27 0:00:00,33.82089996,35.48839951,87,https://en.wikipedia.org/wiki/Beirut_Rafic_Hariri_International_Airport
+647,NGBR,BEZ,Beru Airport,small_airport,48155,89,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.35472,176.007004,6,https://en.wikipedia.org/wiki/Beru_Airport
+648,PY-BFA,BFA,Aeródromo de Bahía Negra,small_airport,48156,138,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-20.2246,-58.179528,277,
+650,KBFD,BFD,Bradford Regional Airport,medium_airport,6627,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.80310059,-78.64009857,2143,https://en.wikipedia.org/wiki/Bradford_Regional_Airport
+651,EDLI,BFE,Bielefeld Airport,small_airport,5669,64,3,http://www.flugplatz-bielefeld.de/,2024-06-27 0:00:00,2024-06-27 0:00:00,51.964722,8.544444,454,http://de.wikipedia.org/wiki/Flugplatz_Bielefeld
+652,KBFF,BFF,Western Neb. Rgnl/William B. Heilig Airport,medium_airport,38504,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.87400055,-103.5960007,3967,https://en.wikipedia.org/wiki/Western_Nebraska_Regional_Airport
+653,KU07,BFG,Bullfrog Basin Airport,small_airport,48157,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.547827,-110.712898,4167,https://en.wikipedia.org/wiki/Bullfrog_Basin_Airport
+654,SBBI,BFH,Bacacheri Airport,medium_airport,10666,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-25.4051,-49.231998,3057,https://en.wikipedia.org/wiki/Bacacheri_Airport
+655,KBFI,BFI,Boeing Field King County International Airport,medium_airport,38525,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,47.529999,-122.302002,21,https://en.wikipedia.org/wiki/Boeing_Field
+656,ZUBJ,BFJ,Bijie Feixiong Airport,medium_airport,5712,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.267066,105.472097,4751,https://en.wikipedia.org/wiki/Bijie_Feixiong_Airport
+657,KBKF,BFK,Buckley Space Force Base,medium_airport,3086,188,4,https://www.buckley.spaceforce.mil/,2024-06-27 0:00:00,2024-06-27 0:00:00,39.701698,-104.751999,5662,https://en.wikipedia.org/wiki/Buckley_Space_Force_Base
+658,KBFL,BFL,Meadows Field,medium_airport,3693,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.433601,-119.056999,510,https://en.wikipedia.org/wiki/Meadows_Field_Airport
+659,KBFM,BFM,Mobile Downtown Airport,medium_airport,27306,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.62680054,-88.06809998,26,https://en.wikipedia.org/wiki/Mobile_Downtown_Airport
+660,FABL,BFN,Bram Fischer International Airport,medium_airport,48158,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-29.092699,26.302401,4457,https://en.wikipedia.org/wiki/Bloemfontein_Airport
+661,FVCZ,BFO,Buffalo Range Airport,medium_airport,9373,197,2,https://www.caaz.co.zw/buffalo-range-airport,2024-06-27 0:00:00,2024-06-27 0:00:00,-21.008101,31.5786,1421,https://en.wikipedia.org/wiki/Buffalo_Range_Airport
+662,KBVI,BFP,Beaver County Airport,medium_airport,4811,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,40.772499,-80.391403,1253,https://en.wikipedia.org/wiki/Beaver_County_Airport
+663,PA-BFQ,BFQ,Bahia Piña Airport,small_airport,48159,136,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.58737,-78.179939,14,https://en.wikipedia.org/wiki/Bah%C3%ADa_Pi%C3%B1a_Airport
+664,KBFR,BFR,Virgil I Grissom Municipal Airport,small_airport,4840,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.84000015,-86.44539642,727,https://en.wikipedia.org/wiki/Virgil_I._Grissom_Municipal_Airport
+665,EGAA,BFS,Belfast International Airport,large_airport,5016,187,3,http://www.belfastairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,54.65750122,-6.215829849,268,https://en.wikipedia.org/wiki/Belfast_International_Airport
+666,KARW,BFT,Beaufort Executive Airport,small_airport,4796,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.412201,-80.634399,10,https://en.wikipedia.org/wiki/Beaufort_County_Airport
+667,ZSBB,BFU,Bengbu Airport,medium_airport,5190,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.84773333,117.3202444,100,https://en.wikipedia.org/wiki/Bengbu_Airport
+668,VTUO,BFV,Buri Ram Airport,medium_airport,48160,175,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.2295,103.252998,590,https://en.wikipedia.org/wiki/Buriram_Airport
+669,DAOS,BFW,Sidi Bel Abbes Airport,small_airport,48161,3,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,35.17179871,-0.593275011,1614,https://en.wikipedia.org/wiki/Sidi_Bel_Abb%C3%A8s_Airport
+670,FKKU,BFX,Bafoussam Airport,medium_airport,3496,31,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,5.536920071,10.35459995,4347,https://en.wikipedia.org/wiki/Bafoussam_Airport
+671,SKBG,BGA,Palonegro Airport,medium_airport,6959,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,7.1265,-73.1848,3897,https://en.wikipedia.org/wiki/Palo_Negro_International_Airport
+672,FOGB,BGB,Booue Airport,small_airport,48162,61,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.1075,11.9438,604,https://en.wikipedia.org/wiki/Boou%C3%A9_Airport
+673,LPBG,BGC,Bragança Airport,medium_airport,48163,142,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,41.8578,-6.70713,2241,https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport
+674,KBGD,BGD,Hutchinson County Airport,small_airport,6375,188,4,http://www.hutchinsoncountyairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,35.70090103,-101.3939972,3055,https://en.wikipedia.org/wiki/Hutchinson_County_Airport
+675,KBGE,BGE,Decatur County Industrial Air Park,small_airport,3642,188,4,http://bainbridgega.com/chamber/airport.shtml,2024-06-27 0:00:00,2024-06-27 0:00:00,30.9715004,-84.63739777,141,https://en.wikipedia.org/wiki/Decatur_County_Industrial_Air_Park
+676,FEFF,BGF,Bangui M'Poko International Airport,medium_airport,4155,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.398479939,18.51880074,1208,https://en.wikipedia.org/wiki/Bangui_M'Poko_International_Airport
+677,TR-0017,BGG,Bingöl Çeltiksuyu Airport,small_airport,48164,181,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,38.85926056,40.59596252,3506,https://en.wikipedia.org/wiki/Bing%C3%B6l_Airport
+678,GQNE,BGH,Abbaye Airport,small_airport,48165,111,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.63331413,-14.20000076,66,https://en.wikipedia.org/wiki/Abbaye_Airport
+679,TBPB,BGI,Grantley Adams International Airport,medium_airport,6779,15,4,http://www.gaia.bb/content/about-gaia-inc,2024-06-27 0:00:00,2024-06-27 0:00:00,13.0746,-59.4925,169,https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport
+680,BIBF,BGJ,Borgarfjörður eystri Airport,small_airport,48166,75,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,65.516769,-13.81578,80,
+681,BZ-BGK,BGK,Big Creek Airport,small_airport,48167,18,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,16.519369,-88.407913,22,https://en.wikipedia.org/wiki/Big_Creek_Airport_(Belize)
+682,VNBL,BGL,Baglung Airport,small_airport,3548,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.212799,83.666298,3320,https://en.wikipedia.org/wiki/Baglung_Airport
+683,KBGM,BGM,Greater Binghamton/Edwin A Link field,medium_airport,5803,188,4,http://binghamtonairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,42.20869827,-75.97979736,1636,https://en.wikipedia.org/wiki/Greater_Binghamton_Airport
+684,UESG,BGN,Belaya Gora Airport,medium_airport,48168,145,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,68.556227,146.22784,118,https://en.wikipedia.org/wiki/Belaya_Gora_Airport
+685,ENBR,BGO,"Bergen Airport, Flesland",large_airport,5300,131,3,http://www.avinor.no/en/airport/bergen,2024-06-27 0:00:00,2024-06-27 0:00:00,60.2934,5.21814,170,https://en.wikipedia.org/wiki/Bergen_Airport%2C_Flesland
+686,PAGQ,BGQ,Big Lake Airport,small_airport,5683,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,61.534658,-149.812936,158,https://en.wikipedia.org/wiki/Big_Lake_Airport
+687,KBGR,BGR,Bangor International Airport,medium_airport,4149,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.8074,-68.828102,192,https://en.wikipedia.org/wiki/Bangor_International_Airport
+688,UNKB,BGS,Boguchany Airport,small_airport,6162,145,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,58.380615,97.472336,446,https://en.wikipedia.org/wiki/Boguchany_Airport
+689,KE51,BGT,Bagdad Airport,small_airport,48169,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.592796,-113.171993,4183,https://en.wikipedia.org/wiki/Bagdad_Airport
+690,FEFG,BGU,Bangassou Airport,small_airport,4143,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,4.784999847,22.78100014,1706,https://en.wikipedia.org/wiki/Bangassou_Airport
+691,SSBG,BGV,Aeroclube de Bento Gonçalves Airport,small_airport,48170,24,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-29.147424,-51.540791,2209,
+692,ORBI,BGW,Baghdad International Airport / New Al Muthana Air Base,large_airport,3533,79,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.262501,44.2346,114,https://en.wikipedia.org/wiki/Baghdad_International_Airport
+693,SBBG,BGX,Comandante Gustavo Kraemer Airport,medium_airport,48171,24,5,https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-de-bage-comandante-gustavo-kraemer/,2024-06-27 0:00:00,2024-06-27 0:00:00,-31.390499,-54.112202,600,https://en.wikipedia.org/wiki/Comandante_Gustavo_Kraemer_Airport
+694,LIME,BGY,Milan Bergamo Airport / Antonio Locatelli Air Base,large_airport,48172,82,3,http://www.sacbo.it/,2024-06-27 0:00:00,2024-06-27 0:00:00,45.670725,9.709223,782,https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport
+695,LPBR,BGZ,Braga Municipal Aerodrome,medium_airport,6635,142,3,http://www.pelicano.com.pt/zp_braga.html,2024-06-27 0:00:00,2024-06-27 0:00:00,41.58710098,-8.445139885,247,http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga
+696,SESV,BHA,Los Perales Airport,small_airport,48173,50,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.608111,-80.402702,10,https://en.wikipedia.org/wiki/Los_Perales_Airport
+697,KBHB,BHB,Hancock County-Bar Harbor Airport,medium_airport,48174,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,44.45000076,-68.3615036,83,https://en.wikipedia.org/wiki/Hancock_County-Bar_Harbor_Airport
+698,PK-BHC,BHC,Bhurban Heliport,small_airport,48175,133,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,33.96099854,73.45200348,5750,
+699,EGAC,BHD,George Best Belfast City Airport,medium_airport,5016,187,3,http://www.belfastcityairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,54.618099,-5.8725,15,https://en.wikipedia.org/wiki/George_Best_Belfast_City_Airport
+700,NZWB,BHE,Woodbourne Airport,medium_airport,6008,126,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-41.5182991,173.8699951,109,https://en.wikipedia.org/wiki/Woodbourne_Airport
+701,SKCP,BHF,Cupica Airport,small_airport,48176,37,5,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.694817,-77.493643,,https://en.wikipedia.org/wiki/Cupica_Airport
+702,MHBL,BHG,Brus Laguna Airport,small_airport,6925,73,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,15.7631,-84.543602,19,https://en.wikipedia.org/wiki/Brus_Laguna_Airport
+703,OEBH,BHH,Bisha Airport,medium_airport,48177,153,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,19.9844,42.620899,3887,https://en.wikipedia.org/wiki/Bisha_Domestic_Airport
+704,SAZB,BHI,Comandante Espora Airport,medium_airport,3595,7,5,https://www.aeropuertobahiablanca.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,-38.725,-62.1693,246,https://en.wikipedia.org/wiki/Comandante_Espora_Airport
+705,VABJ,BHJ,Bhuj Airport,medium_airport,5615,76,1,http://aai.aero/allAirports/bhuj_generalinfo.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,23.28779984,69.67019653,268,https://en.wikipedia.org/wiki/Bhuj_Airport
+706,UTSB,BHK,Bukhara International Airport,medium_airport,7087,190,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.775002,64.483299,751,https://en.wikipedia.org/wiki/Bukhara_International_Airport
+707,BHL,BHL,Bahía de los Ángeles Airport,small_airport,13016,113,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,28.9786,-113.560997,34,https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport
+708,KBHM,BHM,Birmingham-Shuttlesworth International Airport,medium_airport,5865,188,4,http://www.flybirmingham.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,33.562901,-86.753502,650,https://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)
+709,OYBN,BHN,Beihan Airport,small_airport,48178,195,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,14.781714,45.719703,3800,https://en.wikipedia.org/wiki/Beihan_Airport
+710,VABP,BHO,Raja Bhoj International Airport,medium_airport,5608,76,1,http://aai.aero/allAirports/bhopal_generalinfo.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,23.28750038,77.33740234,1711,https://en.wikipedia.org/wiki/Bhopal_Airport
+711,VNBJ,BHP,Bhojpur Airport,small_airport,48179,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.1474,87.050797,4000,https://en.wikipedia.org/wiki/Bhojpur_Airport
+712,YBHI,BHQ,Broken Hill Airport,medium_airport,6841,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-32.00139999,141.4720001,958,https://en.wikipedia.org/wiki/Broken_Hill_Airport
+713,VNBP,BHR,Bharatpur Airport,small_airport,5542,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,27.678101,84.429398,600,https://en.wikipedia.org/wiki/Bharatpur_Airport
+714,YBTH,BHS,Bathurst Airport,medium_airport,4641,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-33.406817,149.651161,2435,https://en.wikipedia.org/wiki/Bathurst_Airport_(New_South_Wales)
+715,BHT,BHT,Brighton Downs Airport,small_airport,48180,9,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,-23.363333,141.562778,390,
+716,VABV,BHU,Bhavnagar Airport,medium_airport,5567,76,1,http://aai.aero/allAirports/bhavnagar.jsp,2024-06-27 0:00:00,2024-06-27 0:00:00,21.75219917,72.18520355,44,https://en.wikipedia.org/wiki/Bhavnagar_Airport
+717,OPBW,BHV,Bahawalpur Airport,medium_airport,3590,133,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.34810066,71.71800232,392,https://en.wikipedia.org/wiki/Bahawalpur_Airport
+718,OPBG,BHW,Bhagatanwala Airport,small_airport,48181,133,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,32.05609894,72.9484024,600,
+719,EGBB,BHX,Birmingham International Airport,large_airport,5865,187,3,http://www.bhx.co.uk/,2024-06-27 0:00:00,2024-06-27 0:00:00,52.453899,-1.74803,327,https://en.wikipedia.org/wiki/Birmingham_International_Airport_(United_Kingdom)
+720,ZGBH,BHY,Beihai Fucheng Airport,medium_airport,48182,36,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,21.5394,109.293999,,https://en.wikipedia.org/wiki/Beihai_Fucheng_Airport
+721,LFKB,BIA,Bastia-Poretta Airport,medium_airport,48183,60,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,42.55270004,9.483730316,26,https://en.wikipedia.org/wiki/Bastia_-_Poretta_Airport
+722,HCMB,BIB,Baidoa Airport,small_airport,3619,162,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,3.10192,43.627137,1820,https://en.wikipedia.org/wiki/Baidoa_Airport
+723,LFEA,BIC,Aérodrome de Belle Île,small_airport,4149,60,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,47.325256,-3.201255,171,https://fr.wikipedia.org/wiki/Aérodrome_de_Belle-Île
+724,KBID,BID,Block Island State Airport,small_airport,48184,188,4,http://www.blockislandri.net/blockislandairport.htm,2024-06-27 0:00:00,2024-06-27 0:00:00,41.168446,-71.578631,108,https://en.wikipedia.org/wiki/Block_Island_State_Airport
+725,KBIE,BIE,Beatrice Municipal Airport,small_airport,4793,188,4,http://beatriceairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,40.3013,-96.754097,1324,https://en.wikipedia.org/wiki/Beatrice_Municipal_Airport
+726,KBIF,BIF,Biggs Army Air Field (Fort Bliss),medium_airport,48185,188,4,https://www.bliss.army.mil/biggs/,2024-06-27 0:00:00,2024-06-27 0:00:00,31.84950066,-106.3799973,3946,https://en.wikipedia.org/wiki/Biggs_Army_Airfield
+727,PABI,BIG,Allen Army Airfield,medium_airport,48186,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,63.99449921,-145.7220001,1291,https://en.wikipedia.org/wiki/Allen_Army_Airfield00000000000000
+728,KBIH,BIH,Eastern Sierra Regional Airport,medium_airport,48187,188,4,http://www.inyocounty.us/Airport/index.html,2024-06-27 0:00:00,2024-06-27 0:00:00,37.3731,-118.363998,4124,https://en.wikipedia.org/wiki/Eastern_Sierra_Regional_Airport
+729,MH-BII,BII,Enyu Airfield,small_airport,48188,110,6,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.5225,165.565002,,https://en.wikipedia.org/wiki/Bikini_Atoll_Airport
+731,WABB,BIK,Frans Kaisiepo Airport,medium_airport,5618,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-1.19002,136.108002,46,https://en.wikipedia.org/wiki/Frans_Kaisiepo_Airport
+732,KBIL,BIL,Billings Logan International Airport,medium_airport,5760,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,45.807701,-108.542999,3652,https://en.wikipedia.org/wiki/Billings_Logan_International_Airport
+733,MYBS,BIM,South Bimini Airport,medium_airport,48189,12,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,25.69989967,-79.26470184,10,https://en.wikipedia.org/wiki/South_Bimini_Airport
+734,OABN,BIN,Bamyan Airport,small_airport,3884,1,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,34.808916,67.816629,8367,https://en.wikipedia.org/wiki/Bamyan_Airport
+735,LEBB,BIO,Bilbao Airport,medium_airport,5735,165,3,https://www.aena.es/en/bilbao.html,2024-06-27 0:00:00,2024-06-27 0:00:00,43.301102,-2.91061,138,https://en.wikipedia.org/wiki/Bilbao_Airport
+737,LFBZ,BIQ,Biarritz-Anglet-Bayonne Airport,medium_airport,48190,60,3,https://biarritz.aeroport.fr/en/,2024-06-27 0:00:00,2024-06-27 0:00:00,43.468333,-1.531111,245,https://en.wikipedia.org/wiki/Biarritz_-_Anglet_-_Bayonne_Airport
+738,VNVT,BIR,Biratnagar Airport,medium_airport,5843,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,26.48150063,87.26399994,236,https://en.wikipedia.org/wiki/Biratnagar_Airport
+739,KBIS,BIS,Bismarck Municipal Airport,medium_airport,5927,188,4,http://bismarckairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,46.77270126,-100.7460022,1661,https://en.wikipedia.org/wiki/Bismarck_Municipal_Airport
+740,VNBT,BIT,Baitadi Airport,small_airport,48191,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.463421,80.548968,4200,
+741,BIBD,BIU,Bildudalur Airport,small_airport,48192,75,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,65.641296,-23.5462,18,https://en.wikipedia.org/wiki/B%C3%ADldudalur_Airport
+742,FEFR,BIV,Bria Airport,small_airport,6768,33,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,6.527780056,21.98940086,1975,https://en.wikipedia.org/wiki/Bria_Airport
+744,KBIX,BIX,Keesler Air Force Base,medium_airport,5766,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,30.41040039,-88.92440033,33,https://en.wikipedia.org/wiki/Keesler_Air_Force_Base
+745,FABE,BIY,Bisho Airport,medium_airport,48193,163,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,-32.897099,27.2791,1950,https://en.wikipedia.org/wiki/Bhisho_Airport
+746,DAAE,BJA,Soummam–Abane Ramdane Airport,medium_airport,48194,3,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,36.711952,5.069804,20,https://en.wikipedia.org/wiki/Abane_Ramdane_Airport
+747,OIMN,BJB,Bojnord Airport,medium_airport,48195,78,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,37.49300003,57.30820084,3499,https://en.wikipedia.org/wiki/Bojnourd_Airport
+748,KBJC,BJC,Rocky Mountain Metropolitan Airport,medium_airport,11270,188,4,,2024-06-27 0:00:00,2024-06-27 0:00:00,39.908798,-105.116997,5673,https://en.wikipedia.org/wiki/Rocky_Mountain_Metropolitan_Airport
+749,BIBK,BJD,Bakkafjörður Airport,small_airport,48196,75,3,,2024-06-27 0:00:00,2024-06-27 0:00:00,66.02189636,-14.82439995,14,
+750,BJE,BJE,Baleela Airport,small_airport,48197,167,2,,2024-06-27 0:00:00,2024-06-27 0:00:00,11.19944444,28.52305556,1690,
+751,ENBS,BJF,Båtsfjord Airport,medium_airport,48198,131,3,https://avinor.no/en/airport/batsfjord-airport/,2024-06-27 0:00:00,2024-06-27 0:00:00,70.60050201,29.69140053,490,https://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport
+752,ID-BJG,BJG,Boalang Airport,small_airport,48199,77,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,-0.97289598,122.1449966,146,
+753,VNBG,BJH,Bajhang Airport,small_airport,48200,124,1,,2024-06-27 0:00:00,2024-06-27 0:00:00,29.539,81.185402,4100,https://en.wikipedia.org/wiki/Bajhang_Airport
+754,KBJI,BJI,Bemidji Regional Airport,medium_airport,5143,188,4,http://www.bemidjiairport.org/,2024-06-27 0:00:00,2024-06-27 0:00:00,47.50939941,-94.93370056,1391,https://en.wikipedia.org/wiki/Bemidji_Regional_Airport
+755,KBJJ,BJJ,Wayne County Airport,small_airport,46490,188,4,http://www.woosterwaynecountyairport.com/,2024-06-27 0:00:00,2024-06-27 0:00:00,40.87480164,-81.88829803,1136,https://en.wikipedia.org/wiki/Wayne_County_Airport_(Ohio) 
